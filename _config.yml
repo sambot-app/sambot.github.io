@@ -1,0 +1,185 @@
+#page title
+page_title                                : Sambot by Jay&Jay      # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+
+# App Info
+ios_app_id                                :                                 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_country                           : fr                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
+
+appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+playstore_link                            :                                           # Enter Google Play Store URL.
+presskit_download_link                    : https://jaynjay.app                       # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+                                                                                      # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
+
+app_icon                                  : assets/logo_smabot_roue_15.png            # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_name                                  : Sambot (coming soon...)                    # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description                           : Sambot app is an iOS faithful companion helping you in Bitrise continuous integration experience, in order to be more efficient on what you really love to do !
+
+enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
+
+
+
+# Information About Yourself
+your_name                                 : Jay&Jay                                
+your_link                                 : https://jaynjay.app                     
+your_city                                 : Paris                                
+email_address                             : helloworld@jaynjay.app
+facebook_username                         :                                           
+instagram_username                        : 
+twitter_username                          : sambot_app
+github_username                           : 
+youtube_username                          :
+
+
+
+# Feature List                            Edit, add or remove features to be presented.
+features                                  : 
+
+  - title                                 : Favorites projects
+    description                           : Access your projects health and follow their builds at a glance
+    fontawesome_icon_name                 : star
+    
+  - title                                 : Builds
+    description                           : Monitor all builds status, restart or abord them quickly
+    fontawesome_icon_name                 : cogs
+
+  - title                                 : Steps
+    description                           : Follow all steps from a build (live or afterwards) directly parsed from Bitrise log
+    fontawesome_icon_name                 : shoe-prints
+
+  - title                                 : Analytics
+    description                           : See projects statistics for success, failure and duration
+    fontawesome_icon_name                 : chart-line
+
+  - title                                 : Notifications
+    description                           : Receive a push notification as soon as a build is finished to avoid loosing time waiting status to refresh
+    fontawesome_icon_name                 : bell
+  
+  - title                                 : Tests Report
+    description                           : Get a parsed test report summary for your builds
+    fontawesome_icon_name                 : bug
+
+  - title                                 : Workflows
+    description                           : Add any reccurrent workflow to your Dashboard to execute them with only one tap !
+    fontawesome_icon_name                 : layer-group
+
+  - title                                 : Easy App install
+    description                           : Install your app and download your artifacts easily in one tap only
+    fontawesome_icon_name                 : arrow-alt-circle-down
+
+  - title                                 : iCloud sync
+    description                           : All your projects, builds and settings are synchronized with iCloud all over your devices
+    fontawesome_icon_name                 : cloud
+
+  - title                                 : Easy to use
+    description                           : Quickly find the build you are looking for with powerfull search engine (build number / project / workflow / branch)
+    fontawesome_icon_name                 : check-circle
+
+  - title                                 : Live Update
+    description                           : Sambot auto-refresh when a workflow / build is started or finished without any manual action
+    fontawesome_icon_name                 : bolt
+
+  - title                                 : Project Weather
+    description                           : Quickly show your projects trends through a nice weather forecast representation
+    fontawesome_icon_name                 : cloud-moon-rain
+
+  - title                                 : Easy to configure
+    description                           : Intuitive onboarding and easy access to most usefull features
+    fontawesome_icon_name                 : tools
+
+  - title                                 : Dark Mode support 
+    description                           : Choose the theme you love between light, dark and system one
+    fontawesome_icon_name                 : adjust
+
+  - title                                 : Siri & Shortcut support
+    description                           : Launch your favorites builds with Siri / Shortcut
+    fontawesome_icon_name                 : microphone
+
+  - title                                 : Error Analysis (early beta yet)
+    description                           : Helps you to quickly understand why a build has failed
+    fontawesome_icon_name                 : exclamation-triangle
+
+  - title                                 : Performances
+    description                           : Fast, Responsive and light app (download size < 10 MB)
+    fontawesome_icon_name                 : tachometer-alt
+
+  - title                                 : Favorites builds
+    description                           : Configure build for quick redo
+    fontawesome_icon_name                 : redo
+
+  - title                                 : Bitrise live log themes
+    description                           : Live log from Bitrise is parsed and colorized with themes
+    fontawesome_icon_name                 : terminal
+
+  - title                                 : Projet customisation
+    description                           : Customize your projects with beautifull pastel colors
+    fontawesome_icon_name                 : palette
+
+  - title                                 : Security & Privacy
+    description                           : All private informations are encrypted and protected from outside world
+    fontawesome_icon_name                 : shield-alt
+
+  - title                                 : Modern code
+    description                           : Sambot frontend code is 100% SwiftUI, under a TCA architecture, with iOS 15 support and its backend is written in Swift, everything is Testable...
+    fontawesome_icon_name                 : code
+
+
+#Find icons on fontawesome.com/icons
+
+# Theme Settings
+topbar_color                              : "#000000"
+topbar_transparency                       : 0.1
+topbar_title_color                        : "#ffffff"
+
+cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
+cover_overlay_color                       : "#363b3d"
+cover_overlay_transparency                : 0.8
+
+device_color                              : blue                                     # Set to: blue, black, yellow, coral or white.
+
+body_background_color                     : "#ffffff"
+
+link_color                                : "#1d63ea"
+
+app_title_color                           : "#ffffff"
+app_price_color                           : "#ffffff"
+app_description_color                     : "#ffffff"
+
+feature_title_color                       : "#000000"
+feature_text_color                        : "#666666"
+
+feature_icons_foreground_color            : "#1d63ea"
+feature_icons_background_color            : "#e6e6e6"
+
+social_icons_foreground_color             : "#666666"
+social_icons_background_color             : "#e6e6e6"
+
+footer_text_color                         : "#666666"
+
+
+
+
+
+
+
+####################################################
+### Jekyll Configuration. No need to touch this. ###
+####################################################
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :compressed # You might prefer to minify using :compressed
+
+# Exclude these files from your production _site
+exclude:
+  - LICENSE
+  - README.md
+  - CNAME
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+# Markdown rendering
+markdown: kramdown
