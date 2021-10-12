@@ -2,7 +2,7 @@
 page_title                                : Sambot by Jay&Jay      # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                :                                 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 1547988597                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 ios_app_country                           : fr                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
@@ -23,7 +23,7 @@ enable_smart_app_banner                   : true                                
 your_name                                 : Jay&Jay                                
 your_link                                 : https://jaynjay.app                     
 your_city                                 : Paris                                
-email_address                             : helloworld@jaynjay.app
+email_address                             : sambot-public1021@jaynjay.app
 facebook_username                         :                                           
 instagram_username                        : 
 twitter_username                          : sambot_app
