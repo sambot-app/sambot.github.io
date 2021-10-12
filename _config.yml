@@ -7,7 +7,7 @@ ios_app_country                           : fr                                  
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    : https://jaynjay.app                       # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+presskit_download_link                    :                        # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/logo_smabot_roue_15.png            # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
@@ -133,7 +133,7 @@ topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
-cover_overlay_transparency                : 0.7
+cover_overlay_transparency                : 0.8
 
 device_color                              : blue                                     # Set to: blue, black, yellow, coral or white.
 
