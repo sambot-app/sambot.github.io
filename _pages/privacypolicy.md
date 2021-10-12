@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**
-September 7 2021
+October 12 2021
 
 # Privacy Policy
 
@@ -15,7 +15,7 @@ This policy applies to all information collected or submitted on Sambot’s webs
 
 New Sambot accounts are created anonymously, without email addresses or passwords.
 
-We store information about your when and why we should send notifications to. We also collect anonymous statistics about how you use the app to help improve it.
+We store informations about your device in order to send notifications. We also collect anonymous statistics about how you use the app to help to improve it.
 
 ## Technical basics
 
@@ -25,7 +25,7 @@ Our server software may also store basic technical information, such as your IP 
 
 ## iCloud
 
-Sambot stores some of your data in Apple’s iCloud service, such as login tokens for your account(s), to enable some sync features between all devices signed into your Apple ID.
+Sambot stores some of your data in Apple’s iCloud service, to enable some sync features between all devices signed into your Apple ID.
 
 ## Analytics
 
@@ -72,7 +72,7 @@ By using our site or apps, you consent to our privacy policy.
 
 ## Contacting Us
 
-If you have questions regarding this privacy policy, you may email privacy@jaynjay.app. Please note that account deletion should be done within the Sambot app, not via email requests, for security reasons.
+If you have questions regarding this privacy policy, you may email [privacy service](mailto:privacy@sambot.app). Please note that account deletion should be done within the Sambot app, not via email requests, for security reasons.
 
 ## Changes to this policy
 
