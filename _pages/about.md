@@ -20,7 +20,7 @@ Quality of code, user privacy and native platform elements are three essential a
 
 If you have any questions, expectations or feedbacks about Sambot app, feel free to **ask for whatever you would like to see embeded** in future releases (or what you definitively wouldn't)...
 
-Jay & Jay team is always happy to meet people from the developers community (especially if you come from the iOS world 😉) so do not hesitate to contact us [on Twitter](https://twitter.com/sambot_app) or [by email](sambot-public1021@jaynjay.app).
+Jay & Jay team is always happy to meet people from the developers community (especially if you come from the iOS world 😉) so do not hesitate to contact us [on Twitter](https://twitter.com/sambot_app) or [by email](mailto:sambot-public1021@jaynjay.app).
 
 
 <br>

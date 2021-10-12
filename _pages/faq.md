@@ -1,42 +1,56 @@
-# FAQ
+---
+layout: page
+title: FAQ
+include_in_header: true
+---
 
+# Frequently Asked Questions
 
-#### Bug analysis is not appearing in the app ?
+---
 
-- you need to have in your artefacts the `raw-xcodebuild-output.log` file for it to work
+### Bug analysis is not appearing in the app ?
 
-#### Test reports are not appearing in the app ?
+- You need to have in your artefacts the `raw-xcodebuild-output.log` file for it to work
 
-- for the moment we support only iOS
-- you need to have in your artefacts the `xcode-test-results-<ProjectName>.html` file for it to work
+### Test reports are not appearing in the app ?
 
-#### Why there is hooks that are not remove from your service in our projet ?
+- For the moment, this is an iOS only feature
+- You need to have in your artefacts the `xcode-test-results-<ProjectName>.html` file for it to work
 
-It is because the token have expired and you did stop using the app without deleting the user in the app. Since we don't store your token or info without your input we cannot full delete the hook on bitrise.
+### Why are there hooks that are not removed from your service in our projet ?
 
-#### How to be sure I completely remove every thing from your service ?
+- Because token expired and you've stop using the app without deleting the user in the app. Since we don't store your token or info without your input we cannot fully delete the hook on bitrise.
 
-Go to Project -> Code -> Remove the web hook with URL `api.sambot.app`
+### How to be sure I completely remove every thing from your service ?
 
-#### Push notification don’t seems to work ?
+- Bitrise website: go to Project -> Code -> Remove the web hook with URL `api.sambot.app`
+- Sambot app: go to Settings screen -> Manage your token -> Remove registered Token 
 
-Push notification only work when the integration is finished and only if they have succeed or failed.
+### Push notification doesn’t seem to work ?
 
-- Go to Project -> Code -> Remove the web hook with URL `api.sambot.app` (pas sur de l’utilité dans ce cas la)
-- Add a project to push by enabling the bell
+- Push notifications work when the integration is finished if builds have succeed or failed.
 
-#### Why are only some step visible in the step module while it’s running ?
+- Bitrise website: go to Project -> Code -> Remove the web hook with URL `api.sambot.app` (pas sur de l’utilité dans ce cas la)
+- Sambot app: go to your Project screen and enable push by toggling on the bell
 
-Because until the integration is finished we do not have access to the whole file. Just what has been recently processed.
+### Why are there (sometimes) only partial steps visible on step module in Build screen while build is running ?
 
-#### Sync iCloud
+- Until the integration is finished we do not have access to the whole file. Just what has been recently processed.
 
-This work only for the devices that share the same iCloud account and use a token that allow access to the same team.
+### Sync iCloud
 
-#### How to delete a saved build ?
+- This work only for devices that share the same iCloud account and use a token that allow access to the same team.
 
-Long press on it and use the contextual menu.
+### How to delete any bookmarked build or project ?
 
-#### Why sometimes the full log button is not visible ?
+- Long press on it and use the contextual menu.
 
-Just after the end of a build it took Bitrise a sometime to process the full log file it can go from a few seconds to a few minutes.
+### Why sometimes the full log button is not visible ?
+
+- Just after the end of a build it took time to Bitrise to process the full log file it can go from a few seconds to a few minutes.
+
+---
+
+### I didn't my question in this list
+
+If you don't find you question in this list, please contact us [on Twitter](https://twitter.com/sambot_app) or [by email](mailto:sambot-public1021@jaynjay.app).

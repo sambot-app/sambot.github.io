@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<base target="_blank">
+
+	<title class="pageTitle">Sambot by Jay&Jay</title>
+	<meta name="description" content="Sambot app is an iOS faithful companion helping you in Bitrise continuous integration experience, in order to be more efficient on what you really love to do !">
+
+	<link rel="shortcut icon" href="/assets/logo_smabot_roue_15.png">
+
+	<!-- Smart App Banner -->
+	
+		<meta name="apple-itunes-app" content="app-id=">
+	
+
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+	<link rel="stylesheet" href="/main.css">
+</head>
+
+<body class="subPageBody">
+    <div class="headerBackground subPageHeaderBackground">
+        <div class="container subPageContainer">
+        <header>
+	<div class="logo">
+		<div class="appIconShadow">
+			<svg width="0" height="0">
+				<defs>
+					<clipPath id="shape">
+							<path id="shape" class="cls-1" d="M6181.23,233.709v-1.792c0-.5-0.02-1-0.02-1.523a24.257,24.257,0,0,0-.28-3.3,11.207,11.207,0,0,0-1.04-3.132,10.683,10.683,0,0,0-1.95-2.679,10.384,10.384,0,0,0-2.68-1.943,10.806,10.806,0,0,0-3.13-1.038,19.588,19.588,0,0,0-3.3-.285c-0.5-.017-1-0.017-1.52-0.017h-22.39c-0.51,0-1.01.017-1.53,0.017a24.041,24.041,0,0,0-3.3.285,11.009,11.009,0,0,0-3.13,1.038,10.491,10.491,0,0,0-4.62,4.622,10.893,10.893,0,0,0-1.04,3.132,19.2,19.2,0,0,0-.28,3.3c-0.02.5-.02,1-0.02,1.523v22.392c0,0.5.02,1,.02,1.524a24.257,24.257,0,0,0,.28,3.3,10.9,10.9,0,0,0,1.04,3.132,10.491,10.491,0,0,0,4.62,4.622,11.04,11.04,0,0,0,3.13,1.038,19.891,19.891,0,0,0,3.3.285c0.51,0.017,1.01.017,1.53,0.017h22.39c0.5,0,1-.017,1.52-0.017a24.221,24.221,0,0,0,3.3-.285,10.836,10.836,0,0,0,3.13-1.038,10.408,10.408,0,0,0,2.68-1.943,10.683,10.683,0,0,0,1.95-2.679,11.217,11.217,0,0,0,1.04-3.132,20.257,20.257,0,0,0,.28-3.3c0.02-.5.02-1,0.02-1.524v-20.6h0Z" transform="translate(-6131 -218)"/>
+					</clipPath>
+				</defs>
+			</svg>
+			
+				<a href="../" target="_self"><img class="headerIcon" src="/assets/logo_smabot_roue_15.png"></a>
+			
+			<div class="divider"></div>
+		</div>
+		<p class="headerName">Sambot (coming soon... )</p>
+	</div>
+	<nav class="scroll">
+		<ul>
+			
+				
+				<li><a href="/about/" target="_self">About us</a></li>
+				
+			
+				
+				<li><a href="/changelog/" target="_self">What's New</a></li>
+				
+			
+				
+				<li><a href="/faq/" target="_self">FAQ</a></li>
+				
+			
+				
+			
+			
+				<li><a href="https://jaynjay.app">Press Kit</a></li>
+			
+		</ul>
+	</nav>
+</header>
+            <article class="page markdown-body">
+                <h1 id="frequently-asked-questions">Frequently Asked Questions</h1>
+
+<hr />
+
+<h3 id="bug-analysis-is-not-appearing-in-the-app-">Bug analysis is not appearing in the app ?</h3>
+
+<ul>
+  <li>You need to have in your artefacts the <code class="language-plaintext highlighter-rouge">raw-xcodebuild-output.log</code> file for it to work</li>
+</ul>
+
+<h3 id="test-reports-are-not-appearing-in-the-app-">Test reports are not appearing in the app ?</h3>
+
+<ul>
+  <li>For the moment, this is an iOS only feature</li>
+  <li>You need to have in your artefacts the <code class="language-plaintext highlighter-rouge">xcode-test-results-&lt;ProjectName&gt;.html</code> file for it to work</li>
+</ul>
+
+<h3 id="why-are-there-hooks-that-are-not-removed-from-your-service-in-our-projet-">Why are there hooks that are not removed from your service in our projet ?</h3>
+
+<ul>
+  <li>Because token expired and you’ve stop using the app without deleting the user in the app. Since we don’t store your token or info without your input we cannot fully delete the hook on bitrise.</li>
+</ul>
+
+<h3 id="how-to-be-sure-i-completely-remove-every-thing-from-your-service-">How to be sure I completely remove every thing from your service ?</h3>
+
+<ul>
+  <li>Bitrise website: go to Project -&gt; Code -&gt; Remove the web hook with URL <code class="language-plaintext highlighter-rouge">api.sambot.app</code></li>
+  <li>Sambot app: go to Settings screen -&gt; Manage your token -&gt; Remove registered Token</li>
+</ul>
+
+<h3 id="push-notification-doesnt-seem-to-work-">Push notification doesn’t seem to work ?</h3>
+
+<ul>
+  <li>
+    <p>Push notifications work when the integration is finished if builds have succeed or failed.</p>
+  </li>
+  <li>Bitrise website: go to Project -&gt; Code -&gt; Remove the web hook with URL <code class="language-plaintext highlighter-rouge">api.sambot.app</code> (pas sur de l’utilité dans ce cas la)</li>
+  <li>Sambot app: go to your Project screen and enable push by toggling on the bell</li>
+</ul>
+
+<h3 id="why-are-there-sometimes-only-partial-steps-visible-on-step-module-in-build-screen-while-build-is-running-">Why are there (sometimes) only partial steps visible on step module in Build screen while build is running ?</h3>
+
+<ul>
+  <li>Until the integration is finished we do not have access to the whole file. Just what has been recently processed.</li>
+</ul>
+
+<h3 id="sync-icloud">Sync iCloud</h3>
+
+<ul>
+  <li>This work only for devices that share the same iCloud account and use a token that allow access to the same team.</li>
+</ul>
+
+<h3 id="how-to-delete-any-bookmarked-build-or-project-">How to delete any bookmarked build or project ?</h3>
+
+<ul>
+  <li>Long press on it and use the contextual menu.</li>
+</ul>
+
+<h3 id="why-sometimes-the-full-log-button-is-not-visible-">Why sometimes the full log button is not visible ?</h3>
+
+<ul>
+  <li>Just after the end of a build it took time to Bitrise to process the full log file it can go from a few seconds to a few minutes.</li>
+</ul>
+
+<hr />
+
+<h3 id="i-didnt-my-question-in-this-list">I didn’t my question in this list</h3>
+
+<p>If you don’t find you question in this list, please contact us <a href="https://twitter.com/sambot_app">on Twitter</a> or <a href="mailto:sambot-public1021@jaynjay.app">by email</a>.</p>
+
+            </article>
+        </div>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+
+
+    </div>
+</body>
+
+</html>
