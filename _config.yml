@@ -40,7 +40,7 @@ features                                  :
     fontawesome_icon_name                 : star
 
   - title                                 : Workflows
-    description                           : Add all recurrent workflows (any projects, branches or tags) to your Dashboard and run them at a glance
+    description                           : Add all recurrent workflows (any combinaison of projects, branches or tags) to your Dashboard and run them at a glance
     fontawesome_icon_name                 : layer-group
 
   - title                                 : Builds
@@ -56,7 +56,7 @@ features                                  :
     fontawesome_icon_name                 : arrow-alt-circle-down
 
   - title                                 : Notifications
-    description                           : Receive a push notification as soon as a build has finished (in success as in error) and act in the nick of time
+    description                           : Receive a push notification as soon as a build has finished (in success or in error) and act in the nick of time
     fontawesome_icon_name                 : bell
 
   - title                                 : Easy to Use
@@ -80,7 +80,7 @@ features                                  :
     fontawesome_icon_name                 : bug
 
   - title                                 : iCloud Sync
-    description                           : All your favorites projects, workflows, custom env params and settings are synchronized all over your devices
+    description                           : All your favorites projects, workflows and custom environment parameters are synchronized all over your devices
     fontawesome_icon_name                 : cloud
 
   - title                                 : Live Update
@@ -99,12 +99,12 @@ features                                  :
     description                           : Choose the theme you love between light and dark
     fontawesome_icon_name                 : adjust
 
-  - title                                 : Performances
-    description                           : Fast, Responsive and light app (download size < 10 MB)
-    fontawesome_icon_name                 : tachometer-alt
+  # - title                                 : Performances
+  #   description                           : Fast, Responsive and light app (download size < 10 MB)
+  #   fontawesome_icon_name                 : tachometer-alt
 
   - title                                 : Favorites builds
-    description                           : Configure builds for quick redo
+    description                           : Save build configuration for quick redo
     fontawesome_icon_name                 : redo
 
   - title                                 : Bitrise live log themes
@@ -120,7 +120,7 @@ features                                  :
     fontawesome_icon_name                 : shield-alt
 
   - title                                 : Modern code
-    description                           : iOS 15 support, frontend code is 100% SwiftUI with TCA architecture and backend is fully written in Swift
+    description                           : iOS 15 support, 100% SwiftUI (Composable Architecture) and backend written in Swift
     fontawesome_icon_name                 : code
 
 
