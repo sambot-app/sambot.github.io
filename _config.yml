@@ -36,7 +36,7 @@ youtube_username                          :
 features                                  : 
 
   - title                                 : Projects
-    description                           : Access your most important projects quickly to follow their health and builds at any time
+    description                           : Quick access to your most important projects to follow their health and builds at any time
     fontawesome_icon_name                 : star
 
   - title                                 : Workflows
@@ -48,7 +48,7 @@ features                                  :
     fontawesome_icon_name                 : cogs
 
   - title                                 : Steps
-    description                           : Follow workflows steps (live or afterwards) nicely parsed from Bitrise log and instantly identify what's happening
+    description                           : Follow workflows steps (live or afterwards) parsed from Bitrise log to instantly identify what's happening
     fontawesome_icon_name                 : shoe-prints
 
   - title                                 : Easy App install
@@ -56,11 +56,11 @@ features                                  :
     fontawesome_icon_name                 : arrow-alt-circle-down
 
   - title                                 : Notifications
-    description                           : Receive a push notification as soon as a build has finished (in success or in error) and act in the nick of time
+    description                           : Receive a push notification as soon as a build finished (in success or in error) and act in the nick of time
     fontawesome_icon_name                 : bell
 
   - title                                 : Easy to Use
-    description                           : Quickly find the build you are looking for with a powerfull search engine to inspect, re-run or abort it instantly
+    description                           : Find the build you are looking for with a powerfull search engine to inspect, re-run or abort it instantly
     fontawesome_icon_name                 : check-circle
 
   - title                                 : Error Analysis
@@ -88,7 +88,7 @@ features                                  :
     fontawesome_icon_name                 : bolt
 
   - title                                 : Project Weather
-    description                           : Quickly show your projects trends through a nice weather forecast representation
+    description                           : See your projects trends through a nice weather forecast representation
     fontawesome_icon_name                 : cloud-moon-rain
 
   - title                                 : Easy to Configure
@@ -96,7 +96,7 @@ features                                  :
     fontawesome_icon_name                 : tools
 
   - title                                 : Dark Mode Support 
-    description                           : Choose the theme you love between light and dark
+    description                           : Choose the one you love to work with
     fontawesome_icon_name                 : adjust
 
   # - title                                 : Performances
@@ -112,7 +112,7 @@ features                                  :
     fontawesome_icon_name                 : terminal
 
   - title                                 : Projet customisation
-    description                           : Customize your projects with beautifull pastel colors
+    description                           : Customize your projects with tens of colors
     fontawesome_icon_name                 : palette
 
   - title                                 : Security & Privacy
