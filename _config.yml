@@ -111,7 +111,7 @@ features                                  :
     description                           : Build logs from Bitrise are parsed and colorized with themes
     fontawesome_icon_name                 : terminal
 
-  - title                                 : Projet customisation
+  - title                                 : Project customisation
     description                           : Customize your projects with tens of colors
     fontawesome_icon_name                 : palette
 
