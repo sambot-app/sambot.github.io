@@ -40,7 +40,7 @@ features                                  :
     fontawesome_icon_name                 : star
 
   - title                                 : Workflows
-    description                           : Add all recurrent workflows (any combinaison of projects, branches or tags) to your Dashboard and run them at a glance
+    description                           : Add all recurrent workflows (for any combinaison of projects, branches or tags) to your Dashboard and run them at a glance
     fontawesome_icon_name                 : layer-group
 
   - title                                 : Builds
@@ -92,7 +92,7 @@ features                                  :
     fontawesome_icon_name                 : cloud-moon-rain
 
   - title                                 : Easy to Configure
-    description                           : Intuitive onboarding and easy access to most usefull features
+    description                           : Intuitive onboarding and easy access to most useful features
     fontawesome_icon_name                 : tools
 
   - title                                 : Dark Mode Support 
