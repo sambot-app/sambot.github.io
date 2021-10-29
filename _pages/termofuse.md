@@ -1,6 +1,13 @@
-# Terms & Conditions
+---
+layout: page
+title: Terms of use
+include_in_header: false
+---
 
-Updated at 2021-10-28
+**Last updated**
+October 28 2021
+
+# Terms & Conditions
 
 # General Terms
 
