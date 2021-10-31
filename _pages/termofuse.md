@@ -1,13 +1,6 @@
----
-layout: page
-title: Terms of use
-include_in_header: false
----
-
-**Last updated**
-October 28 2021
-
 # Terms & Conditions
+
+Updated at 2021-10-28
 
 # General Terms
 
@@ -71,7 +64,7 @@ Sambot uses "Cookies" to identify the areas of our website that you have visited
 
 # Changes To Our Terms & Conditions
 
-You acknowledge and agree that <?=Sambot;?> may stop (permanently or temporarily) providing the Service (or any features within the Service) to you or to users generally at <?=Sambot;?>’s sole discretion, without prior notice to you. You may stop using the Service at any time. You do not need to specifically inform <?=Sambot;?> when you stop using the Service. You acknowledge and agree that if <?=Sambot;?> disables access to your account, you may be prevented from accessing the Service, your account details or any files or other materials which is contained in your account.
+You acknowledge and agree that Sambot may stop (permanently or temporarily) providing the Service (or any features within the Service) to you or to users generally at Sambot’s sole discretion, without prior notice to you. You may stop using the Service at any time. You do not need to specifically inform Sambot when you stop using the Service. You acknowledge and agree that if Sambot disables access to your account, you may be prevented from accessing the Service, your account details or any files or other materials which is contained in your account.
 If we decide to change our Terms & Conditions, we will post those changes on this page, and/or update the Terms & Conditions modification date below.
 
 # Modifications to Our app
