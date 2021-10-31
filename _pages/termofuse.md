@@ -1,3 +1,12 @@
+---
+layout: page
+title: Terms of use
+include_in_header: false
+---
+
+**Last updated**
+October 28 2021
+
 # Terms & Conditions
 
 Updated at 2021-10-28
