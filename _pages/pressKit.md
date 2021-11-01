@@ -27,7 +27,7 @@ Its main features are :
 - Have an intuitive Onboarding and easy access to the most useful features
 - Build logs from Bitrise are parsed and colorized with themes
 - All private information is encrypted and protected from the outside world
-- Sambot App is 100% SwiftUI, built with The Composable Architecture and its backend is written in Swift
+- Sambot app is 100% SwiftUI, built with The Composable Architecture and its backend is written in Swift
 
 
 ## General Informations
