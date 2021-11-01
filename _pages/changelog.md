@@ -7,18 +7,26 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 1.0**
-First version of Sambot iOS app... 
-
-#### What's New
-
-A new iOS application to help you in Bitrise continuous integration experience...
+# **Version 1.0.3**
+### What's New
+[Feat] Minor fixes after AppStore verification process feedbacks...
 
 <br>
 
-Should be on the AppStore soon...
+### **Version 1.0.2**
+[Fix] Backend fixes...
 
 <br>
+
+### **Version 1.0.1**
+[Fix] Push Notifications fixes...
+
+<br>
+
+### **Version 1.0**
+[Feat] First version of Sambot iOS / iPadOS application ! 
+
+Sambot app is an iOS faithful companion helping you in your Bitrise continuous integration experience, to be more efficient on what you love to do!
 
 <!-- 
 # Changelog
