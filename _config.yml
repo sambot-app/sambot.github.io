@@ -13,7 +13,7 @@ presskit_download_link                    :                        # Enter a lin
 app_icon                                  : assets/logo_smabot_roue_15.png            # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Sambot                    # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Sambot app is an iOS faithful companion helping you in your Bitrise continuous integration experience, in order to be more efficient on what you really love to do !
+app_description                           : Sambot app is an iOS faithful companion helping you in your Bitrise continuous integration experience, to be more efficient on what you love to do!
 
 enable_smart_app_banner                   : false                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -40,7 +40,7 @@ features                                  :
     fontawesome_icon_name                 : star
 
   - title                                 : Workflows
-    description                           : Add all recurrent workflows (for any combinaison of projects, branches or tags) to your Dashboard and run them at a glance
+    description                           : Add all recurrent workflows (for any combination of projects, branches, or tags) to your Dashboard and run them at a glance
     fontawesome_icon_name                 : layer-group
 
   - title                                 : Builds
@@ -48,19 +48,19 @@ features                                  :
     fontawesome_icon_name                 : cogs
 
   - title                                 : Steps
-    description                           : Follow workflows steps (live or afterwards) parsed from Bitrise log to instantly identify what's happening
+    description                           : Follow workflows steps (live or afterward) parsed from Bitrise log to instantly identify what's happening
     fontawesome_icon_name                 : shoe-prints
 
-  - title                                 : Easy App install
-    description                           : Install your apps and download your artifacts easily
+  - title                                 : Easy Artifacts download
+    description                           : Download all your builds artifacts easily
     fontawesome_icon_name                 : arrow-alt-circle-down
 
   - title                                 : Notifications
-    description                           : Receive a push notification as soon as a build finished (in success or in error) and act in the nick of time
+    description                           : Receive a push notification as soon as a build is finished (in success or in error) and act in the nick of time
     fontawesome_icon_name                 : bell
 
   - title                                 : Easy to Use
-    description                           : Find the build you are looking for with a powerfull search engine to inspect, re-run or abort it instantly
+    description                           : Find the build you are looking for with a powerful search engine to inspect, re-run or abort it instantly
     fontawesome_icon_name                 : check-circle
 
   - title                                 : Error Analysis
@@ -68,11 +68,11 @@ features                                  :
     fontawesome_icon_name                 : exclamation-triangle
 
   - title                                 : Siri & Shortcut support
-    description                           : Launch your favorites worflows / builds with Shortcut & Siri
+    description                           : Launch your favorite workflows/builds with Shortcut & Siri
     fontawesome_icon_name                 : microphone
 
   - title                                 : Analytics
-    description                           : See projects statistics for success, failure and duration
+    description                           : See projects statistics for success, failure, and duration
     fontawesome_icon_name                 : chart-line
 
   - title                                 : Tests Report
@@ -80,7 +80,7 @@ features                                  :
     fontawesome_icon_name                 : bug
 
   - title                                 : iCloud Sync
-    description                           : All your favorites projects, workflows and custom environment parameters are synchronized all over your devices
+    description                           : All your favorite projects, workflows, and custom environment parameters are synchronized all over your devices
     fontawesome_icon_name                 : cloud
 
   - title                                 : Live Update
@@ -92,7 +92,7 @@ features                                  :
     fontawesome_icon_name                 : cloud-moon-rain
 
   - title                                 : Easy to Configure
-    description                           : Intuitive onboarding and easy access to most useful features
+    description                           : Intuitive onboarding and easy access to the most useful features
     fontawesome_icon_name                 : tools
 
   - title                                 : Dark Mode Support 
@@ -116,11 +116,11 @@ features                                  :
     fontawesome_icon_name                 : palette
 
   - title                                 : Security & Privacy
-    description                           : All private informations are encrypted and protected from the outside world
+    description                           : All private information is encrypted and protected from the outside world
     fontawesome_icon_name                 : shield-alt
 
   - title                                 : Modern code
-    description                           : iOS 15 support, 100% SwiftUI (Composable Architecture) and backend written in Swift
+    description                           : iOS 15 support, 100% SwiftUI (Composable Architecture), and backend written in Swift
     fontawesome_icon_name                 : code
 
 
