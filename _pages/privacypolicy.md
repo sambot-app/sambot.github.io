@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**
-October 12 2021
+November 2 2021
 
 # Privacy Policy
 
@@ -15,7 +15,7 @@ This policy applies to all information collected or submitted on Sambot’s webs
 
 New Sambot accounts are created anonymously, without email addresses or passwords.
 
-We store informations about your device in order to send notifications. We also collect anonymous statistics about how you use the app to help to improve it.
+We store information about your device to send notifications. We also collect anonymous statistics about how you use the app to help to improve it.
 
 ## Technical basics
 
@@ -25,7 +25,7 @@ Our server software may also store basic technical information, such as your IP 
 
 ## iCloud
 
-Sambot stores some of your data in Apple’s iCloud service, to enable some sync features between all devices signed into your Apple ID.
+Sambot stores some of your data in Apple’s iCloud service, to enable some sync features between all devices signed in to your Apple ID.
 
 ## Analytics
 
@@ -35,7 +35,7 @@ Sambot’s app collects aggregate, anonymous statistics, such as the percentage 
 
 We use the information we collect to operate and improve our website, apps, and customer support.
 
-We do not share personal information with outside parties except to the extent necessary to accomplish Sambot’s functionality. --We may share anonymous, aggregate statistics with outside parties, such as service that host your continious integration solution.--
+We do not share personal information with outside parties except to the extent necessary to accomplish Sambot’s functionality. --We may share anonymous, aggregate statistics with outside parties, such as services that host your continuous integration solution.--
 
 We may disclose your information in response to subpoenas, court orders, or other legal requirements; to exercise our legal rights or defend against legal claims; to investigate, prevent, or take action regarding illegal activities, suspected fraud or abuse, violations of our policies; or to protect our rights and property.
 
@@ -56,7 +56,7 @@ Sambot may delete your information at any time and for any reason, such as techn
 ## GDPR
 
 We comply with the GDPR. We therefore will not distribute your personal information to outside parties without your consent.
-And don't build identifiable informations.
+And don't build identifiable information.
 
 ## Information for European Union Customers
 
@@ -64,7 +64,7 @@ By using Sambot and providing your information, you authorize us to collect, use
 
 ## International Transfers of Information
 
-Information may be processed, stored, and used outside of the country in which you are located. Data privacy laws vary across jurisdictions, and different laws may be applicable to your data depending on where it is processed, stored, or used.
+Information may be processed, stored, and used outside of the country in which you are located. Data privacy laws vary across jurisdictions, and different laws may apply to your data depending on where it is processed, stored, or used.
 
 ## Your Consent
 
@@ -76,4 +76,4 @@ If you have questions regarding this privacy policy, you may email [privacy serv
 
 ## Changes to this policy
 
-If we decide to change our privacy policy, we will post those changes on this page. Summary of changes so far:
+If we decide to change our privacy policy, we will post those changes on this page.
