@@ -4,10 +4,10 @@ title: Privacy Policy
 include_in_header: false
 ---
 
-**Last updated**
-November 2 2021
-
 # Privacy Policy
+**Last updated** November 2, 2021
+
+---
 
 This policy applies to all information collected or submitted on Sambot’s website and our apps for iPhone and any other devices and platforms.
 

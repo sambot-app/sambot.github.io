@@ -4,10 +4,10 @@ title: Terms of use
 include_in_header: false
 ---
 
-**Last updated**
-November 2 2021
-
 # Terms & Conditions
+**Last updated** November 2, 2021
+
+--- 
 
 # General Terms
 

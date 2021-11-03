@@ -4,7 +4,8 @@ title: Press Kit
 include_in_header: true
 ---
 
-# Sambot App PressKit
+# Press Kit
+---
 
 ## What is Sambot app ?
 Sambot application is a tool helping you in your Bitrise `Continuous Integration` experience, to be more efficient on what you love to do! 
@@ -38,7 +39,7 @@ Its main features are :
 | Developers | Jeffrey Macko & Jérémie Godon |
 | Contact | [contact@sambot.app](mailto:contact@sambot.app) |
 | Twitter | [@sambot_app](https://www.twitter.com/sambot_app) |
-| App Store link| [apps.apple.com/](https://apps.apple.com/fr/app/sambot-for-bitrise/id1584776704) |
+| App Store link| [apps.apple.com](https://apps.apple.com/fr/app/sambot-for-bitrise/id1584776704) |
 
 
 ## Screenshots
