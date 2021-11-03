@@ -18,6 +18,9 @@ Sambot app is a tool helping you in your Bitrise continuous integration experien
 ### What do I need to use it?
 To use Sambot app you need a Bitrise account access and a valid generated token ([see this tutorial](/tokentuto/index.html) for more details)..
 
+### On which platform can I use it?
+Sambot app is (at the moment) available on iOS and iPadOS and should soon be running on macOS.
+
 ### How much does it cost?
 Sambot app is free to use with lots of great features. But if you wish to use some extra features (like Push Notifications, iCloud Sync, Detailed Test Reports, Unlimited Favorite Projects, or Siri & Shortcuts) check out our Pro features Plan and unlock it with in-app purchases.
 

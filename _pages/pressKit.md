@@ -5,6 +5,8 @@ include_in_header: true
 ---
 
 # Press Kit
+**Last updated** November 2, 2021
+
 ---
 
 ## What is Sambot app ?
