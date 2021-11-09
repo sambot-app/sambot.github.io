@@ -7,8 +7,6 @@ include_in_header: true
 # Frequently Asked Questions
 **Last updated** November 3, 2021
 
----
-
 ## Sambot app
 
 ### What is this app for ?

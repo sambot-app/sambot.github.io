@@ -5,7 +5,6 @@ include_in_header: true
 ---
 
 # About Jay & Jay
----
 
 ## Hello world !
 

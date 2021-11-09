@@ -7,7 +7,6 @@ include_in_header: false
 # Terms & Conditions
 **Last updated** November 2, 2021
 
---- 
 
 # General Terms
 

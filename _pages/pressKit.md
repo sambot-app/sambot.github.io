@@ -7,8 +7,6 @@ include_in_header: true
 # Press Kit
 **Last updated** November 2, 2021
 
----
-
 ## What is Sambot app ?
 Sambot application is a tool helping you in your Bitrise `Continuous Integration` experience, to be more efficient on what you love to do! 
 
