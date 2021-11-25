@@ -5,11 +5,17 @@ include_in_header: true
 ---
 
 # Changelog
-**Last updated** November 2, 2021
+**Last updated** November 25, 2021
 
-# **Version 1.0.3**
+# **Version 1.0.4**
 ### What's New
-[Feat] Minor fixes after AppStore verification process feedbacks...
+[Fix] Minor fixes after AppStore verification process feedbacks (again)...
+
+<br>
+
+
+### **Version 1.0.3**
+[Fix] Minor fixes after AppStore verification process feedbacks...
 
 <br>
 
