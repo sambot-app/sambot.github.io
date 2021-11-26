@@ -55,6 +55,10 @@ features                                  :
     description                           : Download all your builds artifacts easily
     fontawesome_icon_name                 : arrow-alt-circle-down
 
+  - title                                 : Automatic updated Artifacts updates
+    description                           : Mark any artifacts as favorite and always get the last updated version of them on your Dashboard
+    fontawesome_icon_name                 : save
+
   - title                                 : Notifications
     description                           : Receive a push notification as soon as a build is finished (in success or in error) and act in the nick of time
     fontawesome_icon_name                 : bell
