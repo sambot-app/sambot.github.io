@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 # Press Kit
-**Last updated** November 2, 2021
+**Last updated** December 2, 2021
 
 ## What is Sambot app ?
 Sambot application is a tool helping you in your Bitrise `Continuous Integration` experience, to be more efficient on what you love to do! 
@@ -17,6 +17,7 @@ Its main features are :
 - Add, Run and Rerun recurrent Workflows (on any combination of projects, branches, or tags) at a glance
 - See all details of any Builds and restart or abord them in one tap
 - Download all build artifacts easily
+- Add favorite Artifacts on Dashboard and automatically get instant access to their last version
 - Quickly understand why and where your Build has failed with Error Analysis
 - Follow builds Steps (live or afterward) parsed from Bitrise log to instantly identify what's happening
 - Find the build you are looking for with a powerful search engine to inspect, rerun or abort it instantly
@@ -36,7 +37,7 @@ Its main features are :
 | Website | [sambot.app](https://www.sambot.app) |
 | :--- |---:| 
 | Company | Jay & Jay |
-| Developers | Jeffrey Macko & Jérémie Godon |
+| Developers | &emsp;&emsp;&emsp;&emsp; Jeffrey Macko & Jérémie Godon |
 | Contact | [contact@sambot.app](mailto:contact@sambot.app) |
 | Twitter | [@sambot_app](https://www.twitter.com/sambot_app) |
 | App Store link| [apps.apple.com](https://apps.apple.com/fr/app/sambot-for-bitrise/id1584776704) |
