@@ -5,27 +5,13 @@ include_in_header: true
 ---
 
 # Changelog
-**Last updated** November 25, 2021
+**Last updated** December 6, 2021
 
-# **Version 1.0.4**
+# **Version 1.1.0**
 ### What's New
-[Fix] Minor fixes after AppStore verification process feedbacks (again)...
-
-<br>
-
-
-### **Version 1.0.3**
-[Fix] Minor fixes after AppStore verification process feedbacks...
-
-<br>
-
-### **Version 1.0.2**
-[Fix] Backend fixes...
-
-<br>
-
-### **Version 1.0.1**
-[Fix] Push Notifications fixes...
+- [Fix] Fixes after AppStore verification process feedbacks...
+- [Fix] Backend fixes...
+- [Fix] Push Notifications fixes...
 
 <br>
 
