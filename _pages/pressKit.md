@@ -5,31 +5,38 @@ include_in_header: true
 ---
 
 # Press Kit
-**Last updated** December 2, 2021
+**Last updated** December 9, 2021
 
-## What is Sambot app ?
-Sambot application is a tool helping you in your Bitrise `Continuous Integration` experience, to be more efficient on what you love to do! 
+## What is Sambot for Bitrise ?
 
-Its main features are :
+Sambot is a tool **helping you and your team** in your Bitrise Continuous Integration experience, in order to make **easier**, more **powerful** and more **efficient** the use of Bitrise services, even for non-developers... 
 
-- Have Quick Access to your most important Projects and follow their Builds and Health at any time
-- Be notified as soon as a Build finished (success or error) to act in the nick of time
-- Add, Run and Rerun recurrent Workflows (on any combination of projects, branches, or tags) at a glance
-- See all details of any Builds and restart or abord them in one tap
-- Download all build artifacts easily
-- Add favorite Artifacts on Dashboard and automatically get instant access to their last version
-- Quickly understand why and where your Build has failed with Error Analysis
-- Follow builds Steps (live or afterward) parsed from Bitrise log to instantly identify what's happening
-- Find the build you are looking for with a powerful search engine to inspect, rerun or abort it instantly
-- Launch your favorites Workflows / Builds with Shortcut & Siri 
-- See projects Statistics (success, failure & average duration) and projects Trends through a nice weather forecast representation
-- Get a comprehensive & understandable Test Report summary for your builds, parsed from CI logs
-- Save Build configuration for Quick Redo later
-- Synchronize all your favorite Projects, Workflows, and custom environment parameters across all your devices with iCloud sync
-- Have an intuitive Onboarding and easy access to the most useful features
-- Build logs from Bitrise are parsed and colorized with themes
+Sambot is **designed for all members** of any mobile application product team using Bitrise CI: Developers, DevOps, Q&A, Product Owners/Managers, Designers…
+
+Sambot is **developed for its users**, to be more efficient on what they really have (& love) to do!
+
+## Main features
+
+- **Monitor** your most important Projects and **follow their Builds** and health at any time
+- Quickly understand **why and where your Build has failed** with Failure Analysis
+- Follow builds Steps (live or afterward) parsed from Bitrise log to **instantly identify what’s happening**
+- See **all details of any Builds** and restart or abord them in one tap
+- **Download** all build artifacts easily
+- Add favorite Artifacts on Dashboard and **automatically get instant access to their last version**
+- Run (and Re-Run)  at a glance your **recurrent Workflows** on any combination of projects, branches, or tags
+- Be notified by **push notifications** as soon as a Build finished to act in the nick of time
+- Find the build you are looking for with a **powerful search engine** to inspect, rerun or abort it instantly
+- Launch your favorites Workflows / Builds with **Shortcut & Siri**
+- See **Projects Statistics** (success, failure & average duration) and Projects **Trends** through a nice weather forecast representation
+- Get a comprehensive & understandable **Test Report summary** for your builds, parsed from CI logs
+- Save Build configuration for **quick Redo later**
+- **Synchronize** all your favorite Projects, Workflows, and custom environment parameters across all your devices with iCloud sync
+- Have an **intuitive Onboarding** and easy access to the most useful features
+- Build logs from Bitrise are **parsed and colorized** with themes
+
+## Remarks
 - All private information is encrypted and protected from the outside world
-- Sambot app is 100% SwiftUI, built with The Composable Architecture and its backend is written in Swift
+- Sambot app is **100% SwiftUI**, built with [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) and its backend is written in Swift ([VAPOR](https://vapor.codes))
 
 
 ## General Informations
@@ -40,16 +47,16 @@ Its main features are :
 | Developers | &emsp;&emsp;&emsp;&emsp; Jeffrey Macko & Jérémie Godon |
 | Contact | [contact@sambot.app](mailto:contact@sambot.app) |
 | Twitter | [@sambot_app](https://www.twitter.com/sambot_app) |
-| App Store link| [apps.apple.com](https://apps.apple.com/fr/app/sambot-for-bitrise/id1584776704) |
+| App Store link| [apps.apple.com](https://apps.apple.com/app/apple-store/id1584776704?pt=123480917&ct=www&mt=8) |
 
 
 ## Screenshots
 
-<img src="../assets/screenshots/1-unleash.png" alt="Unleash" width="350"/> <img src="../assets/screenshots/2-supervise.png" alt="Supervise" width="350"/>
-<img src="../assets/screenshots/3-inspect.png" alt="Inspect" width="350"/> <img src="../assets/screenshots/4-download.png" alt="Download" width="350"/>
-<img src="../assets/screenshots/5-run.png" alt="Run" width="350"/> <img src="../assets/screenshots/6-find.png" alt="Find" width="350"/>
-<img src="../assets/screenshots/7-monitor.png" alt="Monitor" width="350"/> <img src="../assets/screenshots/8-test.png" alt="Test" width="350"/>
-<img src="../assets/screenshots/9-be_notified.png" alt="Be_notified" width="350"/> <img src="../assets/screenshots/10-personalize.png" alt="Personalize" width="350"/>
+<img src="../assets/screenshots/Dashboard.png" alt="Unleash" width="350"/> &emsp;&emsp; <img src="../assets/screenshots/Project.png" alt="Supervise" width="350"/>
+<img src="../assets/screenshots/Build_inspect.png" alt="Inspect" width="350"/> &emsp;&emsp; <img src="../assets/screenshots/Build_download.png" alt="Download" width="350"/>
+<img src="../assets/screenshots/Run.png" alt="Run" width="350"/> &emsp;&emsp; <img src="../assets/screenshots/Find.png" alt="Find" width="350"/>
+<img src="../assets/screenshots/Build_monitor.png" alt="Monitor" width="350"/> &emsp;&emsp; <img src="../assets/screenshots/Test.png" alt="Test" width="350"/>
+<img src="../assets/screenshots/Notifications.png" alt="Be_notified" width="350"/> &emsp;&emsp; <img src="../assets/screenshots/Colors.png" alt="Personalize" width="350"/>
 
 
 > You'll find all these screenshots in their original size [in this zip file](../assets/Screenshots.zip)
