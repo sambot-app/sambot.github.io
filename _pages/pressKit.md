@@ -19,6 +19,11 @@ Sambot is **developed for its users**, to be more efficient on what they really 
 
 <br>
 
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/656315015?h=04b710eb45&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Sambot for Bitrise"></iframe></div>
+<script src="https://player.vimeo.com/api/player.js"></script>
+
+<br>
+
 ## Main features
 
 - **Monitor** your most important Projects and **follow their Builds** and health at any time
@@ -38,8 +43,6 @@ Sambot is **developed for its users**, to be more efficient on what they really 
 - Have an **intuitive Onboarding** and easy access to the most useful features
 - Build logs from Bitrise are **parsed and colorized** with themes
 
-<br>
-
 ## Remarks
 - All private information is encrypted and protected from the outside world
 - Sambot app is **100% SwiftUI**, built with [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) and its backend is written in Swift ([VAPOR](https://vapor.codes))
@@ -55,13 +58,6 @@ Sambot is **developed for its users**, to be more efficient on what they really 
 | Contact | [contact@sambot.app](mailto:contact@sambot.app) |
 | Twitter | [@sambot_app](https://www.twitter.com/sambot_app) |
 | App Store link| [apps.apple.com](https://apps.apple.com/app/apple-store/id1584776704?pt=123480917&ct=www&mt=8) |
-
-<br>
-
-## Video
-
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/656315015?h=04b710eb45&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Sambot for Bitrise"></iframe></div>
-<script src="https://player.vimeo.com/api/player.js"></script>
 
 <br>
 
