@@ -5,7 +5,9 @@ include_in_header: true
 ---
 
 # Press Kit
-**Last updated** December 9, 2021
+**Last updated** December 14, 2021
+
+<br>
 
 ## What is Sambot for Bitrise ?
 
@@ -14,6 +16,8 @@ Sambot is a tool **helping you and your team** in your Bitrise Continuous Integr
 Sambot is **designed for all members** of any mobile application product team using Bitrise CI: Developers, DevOps, Q&A, Product Owners/Managers, Designers…
 
 Sambot is **developed for its users**, to be more efficient on what they really have (& love) to do!
+
+<br>
 
 ## Main features
 
@@ -34,10 +38,13 @@ Sambot is **developed for its users**, to be more efficient on what they really 
 - Have an **intuitive Onboarding** and easy access to the most useful features
 - Build logs from Bitrise are **parsed and colorized** with themes
 
+<br>
+
 ## Remarks
 - All private information is encrypted and protected from the outside world
 - Sambot app is **100% SwiftUI**, built with [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) and its backend is written in Swift ([VAPOR](https://vapor.codes))
 
+<br>
 
 ## General Informations
 
@@ -49,6 +56,14 @@ Sambot is **developed for its users**, to be more efficient on what they really 
 | Twitter | [@sambot_app](https://www.twitter.com/sambot_app) |
 | App Store link| [apps.apple.com](https://apps.apple.com/app/apple-store/id1584776704?pt=123480917&ct=www&mt=8) |
 
+<br>
+
+## Video
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/656315015?h=04b710eb45&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Sambot for Bitrise"></iframe></div>
+<script src="https://player.vimeo.com/api/player.js"></script>
+
+<br>
 
 ## Screenshots
 
@@ -61,11 +76,13 @@ Sambot is **developed for its users**, to be more efficient on what they really 
 
 > You'll find all these screenshots in their original size [in this zip file](../assets/Screenshots.zip)
 
+<br>
 
 ## Logo
 
-<img src="../assets/logo.png" alt="Sambot_logo" align="center" width="400"/>
+<img src="../assets/logo_arrondi.png" alt="Sambot_logo" align="center" width="400"/>
 
+<br>
 
 ## Supported platforms
 - iOS
