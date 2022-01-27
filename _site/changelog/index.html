@@ -8,7 +8,7 @@
 	<base target="_blank">
 
 	<title class="pageTitle"></title>
-	<meta name="description" content="Sambot app is a faithful companion helping you in your Bitrise continuous integration experience, to be more efficient on what you love to do!">
+	<meta name="description" content="Sambot is a tool helping you and all members of your team (Developers, DevOps, Q&A, PO/PM, Designers) to be more productive while using Bitrise Continuous Integration service">
 
 	<link rel="shortcut icon" href="/assets/logo.png">
 
@@ -70,30 +70,43 @@
 </header>
             <article class="page markdown-body">
                 <h1 id="changelog">Changelog</h1>
-<p><strong>Last updated</strong> December 2, 2021</p>
+<p><strong>Last updated</strong> January 28, 2022</p>
 
-<h1 id="version-12"><strong>Version 1.2</strong></h1>
+<h1 id="version-13"><strong>Version 1.3</strong></h1>
+
 <h3 id="whats-new">What’s New</h3>
 
-<h4 id="features">Features</h4>
+<h4 id="feature">Feature</h4>
+<ul>
+  <li>[Feat] New <code class="language-plaintext highlighter-rouge">Analytics Insight</code> feature ! Discover tons of metrics computed from all the builds of your projects from the very first one: Cost, Duration, Success/Failure rates, Waiting time, Number of builds… These metrics are presented in beautifull colored charts, grids or highlights !</li>
+</ul>
+
+<h4 id="fixes">Fixes</h4>
+<ul>
+  <li>[Fix] Update <code class="language-plaintext highlighter-rouge">Failure Review</code> BuildScreen module by adding smarter limits</li>
+  <li>[Fix] <code class="language-plaintext highlighter-rouge">Favorites Artifacts</code> are now saved when leaving application</li>
+  <li>[Fix] Improve <code class="language-plaintext highlighter-rouge">Bitrise Colorized Log</code> to be available even build still running</li>
+  <li>[Fix] A few bugs and crashes</li>
+</ul>
+
+<h4 id="style">Style</h4>
+<ul>
+  <li>[Style] Small graphical improvements mainly on <code class="language-plaintext highlighter-rouge">Dashboard</code> and <code class="language-plaintext highlighter-rouge">BuildScreen</code></li>
+</ul>
+
+<p><br /></p>
+
+<h3 id="version-12"><strong>Version 1.2</strong></h3>
 <ul>
   <li>[Feat] Add new <code class="language-plaintext highlighter-rouge">Favorite Artifacts Updates</code> feature. Mark any artifacts as favorite in Build Detailed screen and always get the last updated version of them on your Dashboard</li>
   <li>[Feat] Add more information on Build Detailed screen (cost in credits, stack, timestamps…)</li>
   <li>[Feat] Add <code class="language-plaintext highlighter-rouge">Bitrise Public Page</code> button for the main artifact in Build Detailed screen</li>
   <li>[Feat] Improve Pro Features screen for subscribed users (subscription management, redeem code…)</li>
-</ul>
-
-<h4 id="fixes">Fixes</h4>
-<ul>
   <li>[Fix] Elapsed time countdown on Build tile</li>
   <li>[Fix] Build Detailed screen automatic refresh troubles when it ends</li>
   <li>[Fix] At the end of a Build, <code class="language-plaintext highlighter-rouge">FailureReview</code> module automatically refreshes itself until log &amp; artifacts are ready</li>
   <li>[Fix] A few other bugs</li>
   <li>[Fix] Artifact expiration AWS token</li>
-</ul>
-
-<h4 id="refactoring">Refactoring</h4>
-<ul>
   <li>[Refacto] A little bit of refacto (always good for health) + clean a few TODOs</li>
 </ul>
 
