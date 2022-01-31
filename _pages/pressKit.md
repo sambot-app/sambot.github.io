@@ -31,7 +31,7 @@ Sambot is **developed for its users**, to be more efficient on what they really 
 - Follow builds Steps (live or afterward) parsed from Bitrise log to **instantly identify what’s happening**
 - See **all details of any Builds** and restart or abord them in one tap
 - **Download** all build artifacts easily
-- **Analyze** your projects with **Analytics Insight** where tons of metrics are computed from all their builds: Cost, Duration, Success/Failure rates, Waiting time, Number of builds... These metrics are presented in beautifull colored charts, grids or highlights
+- **Analyze** your projects with **Analytics Insight** where tons of metrics are computed from all their builds: Cost, Duration, Success/Failure rates, Waiting time, Number of builds... These metrics are presented in beautiful colored charts, grids or highlights
 - Add favorite Artifacts on Dashboard and **automatically get instant access to their last version**
 - Run (and Re-Run)  at a glance your **recurrent Workflows** on any combination of projects, branches, or tags
 - Be notified by **push notifications** as soon as a Build finished to act in the nick of time

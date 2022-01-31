@@ -12,7 +12,7 @@ include_in_header: true
 ### What's New
 
 #### Feature
-- [Feat] New `Analytics Insight` feature ! Discover tons of metrics computed from all the builds of your projects from the very first one: Cost, Duration, Success/Failure rates, Waiting time, Number of builds... These metrics are presented in beautifull colored charts, grids or highlights !
+- [Feat] New `Analytics Insight` feature ! Discover tons of metrics computed from all the builds of your projects from the very first one: Cost, Duration, Success/Failure rates, Waiting time, Number of builds... These metrics are presented in beautiful colored charts, grids or highlights !
 
 #### Fixes
 - [Fix] Update `Failure Review` BuildScreen module by adding smarter limits

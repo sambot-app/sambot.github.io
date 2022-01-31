@@ -13,7 +13,7 @@ presskit_download_link                    :            # Enter a link to downloa
 app_icon                                  : assets/logo.png             # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                     # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Sambot is a tool helping you and all members of your team (Developers, DevOps, Q&A, PO/PM, Designers) to be more productive while using Bitrise Continuous Integration service
+app_description                           : Sambot helps you and all members of your team (Dev, DevOps, QA, PO/PM, Designers) to be more productive while using Bitrise CI services
 
 enable_smart_app_banner                   : false                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -136,9 +136,9 @@ topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : assets/headerimage7.png                    # Replace with alternative image path or image URL.
+cover_image                               : assets/header_sambot2.png #headerimage7.png                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#000000"
-cover_overlay_transparency                : 0.8
+cover_overlay_transparency                : 0.75
 
 device_color                              : blue                                     # Set to: blue, black, yellow, coral or white.
 
