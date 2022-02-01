@@ -13,7 +13,7 @@ presskit_download_link                    :            # Enter a link to downloa
 app_icon                                  : assets/logo.png             # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                     # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Sambot helps all members of a mobile application development team (Dev, DevOps, QA, PO/PM, Designers) to be more productive while using Bitrise CI services
+app_description                           : Sambot helps all members of a Mobile App Development Team (Developers, Designers, DevOps, Q&A, Product Manager...) to be more productive, reactive and efficient while using Bitrise CI services 🚀
 
 enable_smart_app_banner                   : false                                      # Set to true to show a smart app banner at top of page on mobile devices.
 

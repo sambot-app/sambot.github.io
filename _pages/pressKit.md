@@ -19,7 +19,7 @@ Sambot is **developed for its users**, to be more efficient on what they really 
 
 <br>
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/656315015?h=04b710eb45&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Sambot for Bitrise"></iframe></div>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/656315015?h=04b710eb45&amp;badge=0&title=0&byline=0&portrait=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Sambot for Bitrise"></iframe></div>
 <script src="https://player.vimeo.com/api/player.js"></script>
 
 <br>
@@ -66,7 +66,10 @@ Sambot is **developed for its users**, to be more efficient on what they really 
 
 <img src="../assets/screenshots/Dashboard.png" alt="Unleash" width="350"/> &emsp;&emsp; <img src="../assets/screenshots/Project.png" alt="Supervise" width="350"/>
 <img src="../assets/screenshots/Build_inspect.png" alt="Inspect" width="350"/> &emsp;&emsp; <img src="../assets/screenshots/Build_download.png" alt="Download" width="350"/>
+<img src="../assets/screenshots/build_OK.png" alt="build_OK" width="350"/> &emsp;&emsp; <img src="../assets/screenshots/build_KO.png" alt="build_KO" width="350"/>
+<img src="../assets/screenshots/Insights1.png" alt="Insights1" width="350"/> &emsp;&emsp; <img src="../assets/screenshots/Insights2.png" alt="Insights2" width="350"/>
 <img src="../assets/screenshots/Run.png" alt="Run" width="350"/> &emsp;&emsp; <img src="../assets/screenshots/Find.png" alt="Find" width="350"/>
+<img src="../assets/screenshots/Insights3.png" alt="Insights3" width="350"/> &emsp;&emsp; <img src="../assets/screenshots/Insights4.png" alt="Insights4" width="350"/>
 <img src="../assets/screenshots/Build_monitor.png" alt="Monitor" width="350"/> &emsp;&emsp; <img src="../assets/screenshots/Test.png" alt="Test" width="350"/>
 <img src="../assets/screenshots/Notifications.png" alt="Be_notified" width="350"/> &emsp;&emsp; <img src="../assets/screenshots/Colors.png" alt="Personalize" width="350"/>
 
