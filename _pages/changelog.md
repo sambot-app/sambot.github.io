@@ -11,7 +11,7 @@ include_in_header: true
 
 ### What's New
 
-#### Feature
+#### Features
 - [Feat] Add a `Demo Mode` to try and discover Sambot app without entering any token
 - [Feat] Add an achievement progress bar on `Build Tile` when running (based on median duration for its workflow over past 3 months)
 - [Feat] Add `Analytics Insights` entry on `Dashboard` and make it available for multiple Projects
