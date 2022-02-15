@@ -70,27 +70,46 @@
 </header>
             <article class="page markdown-body">
                 <h1 id="changelog">Changelog</h1>
-<p><strong>Last updated</strong> January 28, 2022</p>
+<p><strong>Last updated</strong> February 17, 2022</p>
 
-<h1 id="version-13"><strong>Version 1.3</strong></h1>
+<h1 id="version-14"><strong>Version 1.4</strong></h1>
 
 <h3 id="whats-new">What’s New</h3>
 
 <h4 id="feature">Feature</h4>
 <ul>
-  <li>[Feat] New <code class="language-plaintext highlighter-rouge">Analytics Insight</code> feature ! Discover tons of metrics computed from all the builds of your projects from the very first one: Cost, Duration, Success/Failure rates, Waiting time, Number of builds… These metrics are presented in beautiful colored charts, grids or highlights !</li>
+  <li>[Feat] Add a <code class="language-plaintext highlighter-rouge">Demo Mode</code> to try and discover Sambot app without entering any token</li>
+  <li>[Feat] Add an achievement progress bar on <code class="language-plaintext highlighter-rouge">Build Tile</code> when running (based on median duration for its workflow over past 3 months)</li>
+  <li>[Feat] Add <code class="language-plaintext highlighter-rouge">Analytics Insights</code> entry on <code class="language-plaintext highlighter-rouge">Dashboard</code> and make it available for multiple Projects</li>
+  <li>[Feat] Add  a “triggered by user” filter in <code class="language-plaintext highlighter-rouge">Analytics Insights</code> screen</li>
+  <li>[Feat] Add the Successful builds median duration in <code class="language-plaintext highlighter-rouge">Analytics Insights</code></li>
 </ul>
 
 <h4 id="fixes">Fixes</h4>
 <ul>
-  <li>[Fix] Update <code class="language-plaintext highlighter-rouge">Failure Review</code> BuildScreen module by adding smarter limits</li>
-  <li>[Fix] <code class="language-plaintext highlighter-rouge">Favorites Artifacts</code> are now saved when leaving application</li>
-  <li>[Fix] Improve <code class="language-plaintext highlighter-rouge">Bitrise Colorized Log</code> to be available even build still running</li>
-  <li>[Fix] A few bugs and crashes</li>
+  <li>[Fix] Fix ScrollViews insets troubles on small devices</li>
+  <li>[Fix] Fix crashes from nil Reducers</li>
 </ul>
 
 <h4 id="style">Style</h4>
 <ul>
+  <li>[Style] Small graphical improvements mainly on <code class="language-plaintext highlighter-rouge">Dashboard</code> and <code class="language-plaintext highlighter-rouge">Project</code> screens</li>
+</ul>
+
+<h4 id="refacto">Refacto</h4>
+<ul>
+  <li>[Refacto] Move all Colors into <code class="language-plaintext highlighter-rouge">StyleGuide</code> module for better app modularization</li>
+</ul>
+
+<p><br /></p>
+
+<h3 id="version-13"><strong>Version 1.3</strong></h3>
+<ul>
+  <li>[Feat] New <code class="language-plaintext highlighter-rouge">Analytics Insight</code> feature ! Discover tons of metrics computed from all the builds of your projects from the very first one: Cost, Duration, Success/Failure rates, Waiting time, Number of builds… These metrics are presented in beautiful colored charts, grids or highlights !</li>
+  <li>[Fix] Update <code class="language-plaintext highlighter-rouge">Failure Review</code> BuildScreen module by adding smarter limits</li>
+  <li>[Fix] <code class="language-plaintext highlighter-rouge">Favorites Artifacts</code> are now saved when leaving application</li>
+  <li>[Fix] Improve <code class="language-plaintext highlighter-rouge">Bitrise Colorized Log</code> to be available even build still running</li>
+  <li>[Fix] A few bugs and crashes</li>
   <li>[Style] Small graphical improvements mainly on <code class="language-plaintext highlighter-rouge">Dashboard</code> and <code class="language-plaintext highlighter-rouge">BuildScreen</code></li>
 </ul>
 

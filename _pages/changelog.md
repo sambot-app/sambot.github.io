@@ -5,22 +5,37 @@ include_in_header: true
 ---
 
 # Changelog
-**Last updated** January 28, 2022
+**Last updated** February 17, 2022
 
-# **Version 1.3**
+# **Version 1.4**
 
 ### What's New
 
 #### Feature
-- [Feat] New `Analytics Insight` feature ! Discover tons of metrics computed from all the builds of your projects from the very first one: Cost, Duration, Success/Failure rates, Waiting time, Number of builds... These metrics are presented in beautiful colored charts, grids or highlights !
+- [Feat] Add a `Demo Mode` to try and discover Sambot app without entering any token
+- [Feat] Add an achievement progress bar on `Build Tile` when running (based on median duration for its workflow over past 3 months)
+- [Feat] Add `Analytics Insights` entry on `Dashboard` and make it available for multiple Projects
+- [Feat] Add  a "triggered by user" filter in `Analytics Insights` screen
+- [Feat] Add the Successful builds median duration in `Analytics Insights`
 
 #### Fixes
+- [Fix] Fix ScrollViews insets troubles on small devices
+- [Fix] Fix crashes from nil Reducers
+
+#### Style
+- [Style] Small graphical improvements mainly on `Dashboard` and `Project` screens
+
+#### Refacto
+- [Refacto] Move all Colors into `StyleGuide` module for better app modularization
+
+<br>
+
+### **Version 1.3**
+- [Feat] New `Analytics Insight` feature ! Discover tons of metrics computed from all the builds of your projects from the very first one: Cost, Duration, Success/Failure rates, Waiting time, Number of builds... These metrics are presented in beautiful colored charts, grids or highlights !
 - [Fix] Update `Failure Review` BuildScreen module by adding smarter limits
 - [Fix] `Favorites Artifacts` are now saved when leaving application
 - [Fix] Improve `Bitrise Colorized Log` to be available even build still running
 - [Fix] A few bugs and crashes
-
-#### Style
 - [Style] Small graphical improvements mainly on `Dashboard` and `BuildScreen`
 
 <br>
