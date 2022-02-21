@@ -501,7 +501,9 @@ nav > ul li a:active {
 
 .feature {
 	display: flex;
-	padding-top: 63px;
+	flex-direction: column;
+	align-items: center;
+	padding-top: 40px;
 	padding-left: 15px;
 	padding-right: 15px;
 	width: calc(100%/3);
@@ -536,17 +538,19 @@ nav > ul li a:active {
 }
 
 .featureText {
-	margin-left: 18px;
+	margin-left: 0px;
+	text-align: center;
 }
 
 .featureText > h3 {
 	color: $feature-title-color;
+	margin-top: 18px;
 }
 
 .featureText > p {
 	color: $feature-text-color;
 	margin-top: 8px;
-	line-height: 1.5;
+	line-height: 1.2;
 }
 
 @media only screen and (max-width: 992px) {
@@ -555,7 +559,7 @@ nav > ul li a:active {
 		flex-grow: 1;
 		flex-direction: row;
 		flex-wrap: wrap;
-		margin-top: 11px;
+		margin-top: 100px;
 	}
 
 	.feature {
@@ -590,7 +594,7 @@ nav > ul li a:active {
 		flex-grow: 1;
 		flex-direction: row;
 		flex-wrap: wrap;
-		margin-top: 11px;
+		margin-top: 100px;
 	}
 
 	.feature {
