@@ -473,6 +473,47 @@ nav > ul li a:active {
 	
 } 
 
+// Video promo
+// .videoPromo {
+// 	grid-area: v;
+// 	display: flex;
+// 	flex: 0 1 auto;
+// 	justify-content: center;
+// 	align-content: center;
+// 	text-align: center;
+// 	flex-grow: 1;
+// 	flex-wrap: wrap;
+// 	margin-top: 60px;
+// }
+
+.videoPromo {
+	grid-area: v;
+	display: flex;
+	flex: 0 1 auto;
+	flex-direction: column;
+	justify-content: center;
+	align-content: center;
+	text-align: center;
+	align-items: center;
+	flex-grow: 1;
+	flex-wrap: wrap;
+	margin-top: 60px;
+	width: 100%;
+}
+
+
+.videoPromoHeader {
+	align-items: center;
+	text-align: center;
+    // margin-left: 12px;
+    // margin-right: 12px;
+	margin-top: 40px;
+	margin-bottom: 60px;
+	width: 100%;
+}
+
+// Feature List
+
 .featuresHeader {
 	align-items: center;
 	text-align: center;
@@ -482,30 +523,6 @@ nav > ul li a:active {
 	margin-top: 60px;
 	margin-bottom: 60px;
 }
-
-.videoPromoHeader {
-	align-items: center;
-	text-align: center;
-    margin-left: 12px;
-    margin-right: 12px;
-	margin-top: 40px;
-	margin-bottom: 60px;
-	width: 100%;
-}
-
-// Video promo
-.videoPromo {
-	grid-area: v;
-	display: flex;
-	flex: 0 1 auto;
-	justify-content: center;
-	align-content: flex-start;
-	flex-grow: 1;
-	flex-wrap: wrap;
-	margin-top: 60px;
-}
-
-// Feature List
 
 .features {
 	grid-area: c;
@@ -624,6 +641,38 @@ nav > ul li a:active {
 }
 
 @media only screen and (max-width: 640px) {
+	
+	// .videoPromoHeader {
+	// 	align-items: flex-start;
+	// 	margin-left: 12px;
+	// 	margin-right: 12px;
+	// 	margin-top: 0px;
+	// 	margin-bottom: 60px;
+	// 	width: 100%;
+	// }
+
+	// .videoPromo {
+	// 	grid-area: v;
+	// 	display: flex;
+	// 	flex: 0 1 auto;
+	// 	justify-content: flex-start;
+	// 	align-content: flex-start;
+	// 	flex-grow: 1;
+	// 	flex-wrap: wrap;
+	// 	margin-top: 60px;
+	// }
+	
+	// .videoPromo {
+	// 	grid-area: v;
+	// 	display: flex;
+	// 	flex: 0 1 auto;
+	// 	justify-content: center;
+	// 	align-content: center;
+	// 	text-align: center;
+	// 	flex-grow: 1;
+	// 	flex-wrap: wrap;
+	// 	margin-top: 60px;
+	// }
 
 	.featuresHeader {
 		align-items: flex-start;
@@ -633,27 +682,7 @@ nav > ul li a:active {
 		margin-top: 60px;
 		margin-bottom: 60px;
 	}
-	
-	.videoPromoHeader {
-		align-items: flex-start;
-		margin-left: 12px;
-		margin-right: 12px;
-		margin-top: 0px;
-		margin-bottom: 60px;
-		width: 100%;
-	}
 
-	.videoPromo {
-		grid-area: v;
-		display: flex;
-		flex: 0 1 auto;
-		justify-content: flex-start;
-		align-content: flex-start;
-		flex-grow: 1;
-		flex-wrap: wrap;
-		margin-top: 60px;
-	}
-	
 	.features {
 		display: grid;
 		align-content: flex-start;
