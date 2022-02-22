@@ -1,28 +1,35 @@
-<div class="features">
+<div class="featuresContainer">
+    <h1>🚀</h1>
 
-    <h1 class="featuresHeader">Discover all Sambot features</h1>
-
-    {% for feature in site.features %}
-
-    {% if feature.title %}
-    <div class="feature">
-        <div>
-            <span class="fa-stack fa-1x">
-                <i class="iconBack fas fa-circle fa-stack-2x"></i>
-                <i class="iconTop fas fa-{{ feature.fontawesome_icon_name }} fa-stack-1x"></i>
-            </span>
-        </div>
-        <div class="featureText">
-            <h3>
-                {{ feature.title }}
-            </h3>
-            <p>
-                {{ feature.description }}
-            </p>
-        </div>
+    <div class="featuresHeader">
+        <h1>Discover Sambot features</h1>
+        <br>
+        <p>Sambot has lots of great features to help you and your team. Browse all of them to learn more</p>
     </div>
-    {% endif %}
 
-    {% endfor %}
+    <div class="features">
+        {% for feature in site.features %}
 
+        {% if feature.title %}
+        <div class="feature">
+            <div>
+                <span class="fa-stack fa-1x">
+                    <i class="iconBack fas fa-circle fa-stack-2x"></i>
+                    <i class="iconTop fas fa-{{ feature.fontawesome_icon_name }} fa-stack-1x"></i>
+                </span>
+            </div>
+            <div class="featureText">
+                <h3>
+                    {{ feature.title }}
+                </h3>
+                <p>
+                    {{ feature.description }}
+                </p>
+            </div>
+        </div>
+        {% endif %}
+
+        {% endfor %}
+
+    </div>
 </div>
