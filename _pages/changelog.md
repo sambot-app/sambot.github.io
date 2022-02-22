@@ -5,24 +5,38 @@ include_in_header: true
 ---
 
 # Changelog
-**Last updated** February 17, 2022
+**Last updated** February 22, 2022
 
-# **Version 1.4**
+# **Version 1.5**
 
 ### What's New
 
-#### Features
+#### Feature
+- [Feat] New Onboarding for token generation
+
+#### Fixes
+- [Fix] Analytics Insights charts graphical bug
+- [Fix] Fix update token alert
+
+#### Style
+- [Style] Improvements on buttons, colors and tiles
+
+#### Refacto
+- [Refacto] Analytics Insights Downloader is now more reliable
+
+#### CI
+- [CI] A few improvements
+
+<br>
+
+### **Version 1.4**
 - [Feat] Add a `Demo Mode` to try and discover Sambot app without entering any token
 - [Feat] Add an achievement progress bar on `Build Tile` when running (based on median duration for its workflow over past 3 months)
 - [Feat] Add `Analytics Insights` entry on `Dashboard` and make it available for multiple Projects
 - [Feat] Add  a "triggered by user" filter in `Analytics Insights` screen
 - [Feat] Add the Successful builds median duration in `Analytics Insights`
-
-#### Fixes
 - [Fix] Fix ScrollViews insets troubles on small devices
 - [Fix] Fix crashes from nil Reducers
-
-#### Style
 - [Style] Small graphical improvements mainly on `Dashboard` and `Project` screens
 
 #### Refacto
