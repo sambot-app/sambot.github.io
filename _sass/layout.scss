@@ -12,11 +12,10 @@
 	background-size: cover;
 	background-position: top;
 	border-radius: 0px 0px 40px 40px;
-
 }
 
 .headerBackground {
-	height: 115px;
+	height: 110px;
 	background-color: rgba($header-color, $header-transparency);
 }
 
@@ -331,6 +330,8 @@ nav > ul li a:active {
 
 	.appDescription {
 		text-align: center;
+		margin-left: 30px;
+		margin-right: 30px;
 	}
 	
 } 
