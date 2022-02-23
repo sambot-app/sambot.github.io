@@ -15,7 +15,7 @@ include_in_header: true
 - [Feat] New Onboarding for token generation
 
 #### Fixes
-- [Fix] Analytics Insights charts graphical bug
+- [Fix] Analytics Insights charts UI bugs
 - [Fix] Fix update token alert
 
 #### Style
