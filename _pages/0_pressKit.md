@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 # Press Kit
-**Last updated** January 28, 2022
+**Last updated** March 3, 2022
 
 <br>
 
@@ -58,8 +58,7 @@ Sambot is **developed for its users**, to be more efficient on what they really 
 | Developers | &emsp;&emsp;&emsp;&emsp; Jeffrey Macko & Jérémie Godon |
 | Contact | [contact@sambot.app](mailto:contact@sambot.app) |
 | Twitter | [@sambot_app](https://www.twitter.com/sambot_app) |
-| App Store link| [apps.apple.com](https://apps.apple.com/app/apple-store/id1584776704?pt=123480917&ct=www&mt=8) |
-
+| App Store link| [apps.apple.com/app/apple-store/id1584776704](https://apps.apple.com/app/apple-store/id1584776704?pt=123480917&ct=www&mt=8) |
 <br>
 
 ## Screenshots
@@ -87,3 +86,4 @@ Sambot is **developed for its users**, to be more efficient on what they really 
 ## Supported platforms
 - iOS
 - iPadOS
+- macOS *(Apple silicon only)*

@@ -5,26 +5,37 @@ include_in_header: true
 ---
 
 # Changelog
-**Last updated** February 22, 2022
+**Last updated** March 3, 2022
 
-# **Version 1.5**
+# **Version 1.6**
 
 ### What's New
 
-#### Feature
-- [Feat] New Onboarding for token generation
+#### Features
+- [Feat] Add macOS Support *(Apple silicon only)*
+- [Feat] Improve iPad version (adding `Sidebar`, adaptative padding, charts markers...)
+- [Feat] Improve Filters usage & style in `Analytics Insights` screen
 
 #### Fixes
+- [Fix] Improve `Analytics Insights` Downloader stop/resume behaviour
+- [Fix] Fix `Tests Results` parser
+- [Fix] Fix bugs in `Analytics Insights` screen
+- [Fix] Fix `Premium Pro plan` random disconnection 
+- [Fix] Persistent store crash after reseting token
+- [Fix] Fix websites URLs
+
+#### Refactoring
+- [Refacto] Replace a few deprecated APIs
+- [Refacto] Reduce code warnings, remove useless files
+
+<br>
+
+### **Version 1.5**
+- [Feat] New Onboarding for token generation
 - [Fix] Analytics Insights charts UI bugs
 - [Fix] Fix update token alert
-
-#### Style
 - [Style] Improvements on buttons, colors and tiles
-
-#### Refacto
 - [Refacto] Analytics Insights Downloader is now more reliable
-
-#### CI
 - [CI] A few improvements
 
 <br>
