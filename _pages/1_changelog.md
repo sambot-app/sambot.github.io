@@ -23,6 +23,7 @@ include_in_header: true
 - [Fix] Fix `Premium Pro plan` random disconnection 
 - [Fix] Persistent store crash after reseting token
 - [Fix] Fix websites URLs
+- [Fix] Fix iCloud sync
 
 #### Refactoring
 - [Refacto] Replace a few deprecated APIs
