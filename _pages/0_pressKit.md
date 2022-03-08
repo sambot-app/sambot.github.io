@@ -25,7 +25,6 @@ Sambot is **developed for its users**, to be more efficient on what they really 
 <br>
 
 ## Main features
-
 - **Monitor** your most important Projects and **follow their Builds** and health at any time
 - Quickly understand **why and where your Build has failed** with Failure Analysis
 - Follow builds Steps (live or afterward) parsed from Bitrise log to **instantly identify what’s happening**
@@ -59,10 +58,22 @@ Sambot is **developed for its users**, to be more efficient on what they really 
 | Contact | [contact@sambot.app](mailto:contact@sambot.app) |
 | Twitter | [@sambot_app](https://www.twitter.com/sambot_app) |
 | App Store link| [apps.apple.com/app/apple-store/id1584776704](https://apps.apple.com/app/apple-store/id1584776704?pt=123480917&ct=www&mt=8) |
+
+<br>
+
+## Videos
+
+> You'll find all Sambot videos on [Sambot Vimeo page](https://vimeo.com/user160207736)
+
 <br>
 
 ## Screenshots
 
+> You'll find all Sambot iPhone & iPad screenshots in their original size [in this zip file](../assets/Screenshots.zip)
+
+<br>
+
+### iPhone
 <img src="../assets/screenshots/Dashboard.png" alt="Unleash" width="350"/> &emsp;&emsp; <img src="../assets/screenshots/Project.png" alt="Supervise" width="350"/>
 <img src="../assets/screenshots/Build_inspect.png" alt="Inspect" width="350"/> &emsp;&emsp; <img src="../assets/screenshots/Build_download.png" alt="Download" width="350"/>
 <img src="../assets/screenshots/build_OK.png" alt="build_OK" width="350"/> &emsp;&emsp; <img src="../assets/screenshots/build_KO.png" alt="build_KO" width="350"/>
@@ -72,13 +83,18 @@ Sambot is **developed for its users**, to be more efficient on what they really 
 <img src="../assets/screenshots/Build_monitor.png" alt="Monitor" width="350"/> &emsp;&emsp; <img src="../assets/screenshots/Test.png" alt="Test" width="350"/>
 <img src="../assets/screenshots/Notifications.png" alt="Be_notified" width="350"/> &emsp;&emsp; <img src="../assets/screenshots/Colors.png" alt="Personalize" width="350"/>
 
+<br>
 
-> You'll find all these screenshots in their original size [in this zip file](../assets/Screenshots.zip)
+### iPad
+<img src="../assets/screenshots/iPad_Dashboard.png" alt="Dashboard iPad" width="700"/> 
+<img src="../assets/screenshots/iPad_insights3.png" alt="Insights iPad" width="700"/>
+<img src="../assets/screenshots/iPad_All_builds.png" alt="All builds iPad" width="700"/>
+<img src="../assets/screenshots/iPad_Run_workflow.png" alt="Run Workflow iPad" width="700"/>
+<img src="../assets/screenshots/iPad_build_inspect.png" alt="Inspect Build iPad" width="700"/>
 
 <br>
 
 ## Logo
-
 <img src="../assets/logo_arrondi.png" alt="Sambot_logo" align="center" width="400"/>
 
 <br>
