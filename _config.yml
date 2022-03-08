@@ -48,7 +48,7 @@ features                                  :
     description                           : Monitor all details of any builds from any projects and restart or abord them in one tap
     fontawesome_icon_name                 : cogs
 
-  - title                                 : Analytics Insight
+  - title                                 : Analytics Insights
     description                           : Get lots of charts from your projects statistics about their cost, build status, duration and more...
     fontawesome_icon_name                 : chart-line
 
