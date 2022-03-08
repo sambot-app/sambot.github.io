@@ -353,7 +353,31 @@ nav > ul li a:active {
 	
 } 
 
-@media only screen and (max-width: 540px) {
+
+@media only screen and (max-width: 630px) {
+
+	.imageWrapper {
+		height: 760px;
+	}	
+}
+
+@media only screen and (max-width: 550px) {
+
+	.imageWrapper {
+		height: 960px;
+	}	
+}
+
+
+@media only screen and (max-width: 320px) {
+
+	.imageWrapper {
+		height: 1100px;
+	}	
+}
+
+
+@media only screen and (max-width: 550px) {
 
 	.downloadButtonsContainer {
 		display: grid;
