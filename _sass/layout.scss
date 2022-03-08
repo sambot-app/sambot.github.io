@@ -353,6 +353,15 @@ nav > ul li a:active {
 	
 } 
 
+@media only screen and (max-width: 640px) {
+
+	.downloadButtonsContainer {
+		display: grid;
+		row-gap: 20px;
+	}
+
+} 
+
 .playStore {
 	height: 75px;
 	margin-right: 24px;
