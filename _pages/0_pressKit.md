@@ -11,11 +11,15 @@ include_in_header: true
 
 ## What is Sambot for Bitrise ?
 
-Sambot is a tool **helping you and your team** in your Bitrise Continuous Integration experience, in order to make **easier**, more **powerful** and more **efficient** the use of Bitrise services, even for non-developers... 
+Sambot is a **mobile application** helping any Bitrise user in his Continuous Integration/Deployment experience to make **easier**, more **powerful** and more **efficient** the use of Bitrise services (even for non-developers).
 
-Sambot is **designed for all members** of any mobile application product team using Bitrise CI: Developers, DevOps, Q&A, Product Owners/Managers, Designers…
+Sambot brings an interface to **improve reactivity and productivity**:
 
-Sambot is **developed for its users**, to be more efficient on what they really have (& love) to do!
+- Manage & Monitor Builds/Workflows
+- Download & Install Artifacts
+- Analyse Data & Optimize Costs
+
+Sambot is available for **free** on iPhone, iPad, Mac and is **designed for all members** of any mobile application product team using Bitrise CI: Developers, DevOps, Q&A, Product Owners/Managers, Designers...
 
 <br>
 
