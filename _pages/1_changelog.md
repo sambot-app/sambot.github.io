@@ -5,18 +5,31 @@ include_in_header: true
 ---
 
 # Changelog
-**Last updated** March 3, 2022
+**Last updated** Avril 6, 2022
 
-# **Version 1.6**
+# **Version 1.7**
 
 ### What's New
 
 #### Features
+- [Feat] `Environment Parameters` now autocomplete when configuring a build to run from any combinaison of project / workflow / branch / tags
+- [Feat] Add duration progress estimated from DB for favorites projects Builds running
+
+#### Fixes
+- [Fix] A few graphical glitches fixed
+- [Fix] `Analytics Insights` fetching was sometimes blocked
+
+#### Refactoring
+- [Refacto] Improved `Build Screen` loading (speed + code) 
+- [Refacto] Improved `Analytics Insights` fetching datas reliability
+- [Refacto] Improved quality of implementation for an incoming (great) feature 😉
+
+<br>
+
+### **Version 1.6**
 - [Feat] Add macOS Support *(Apple silicon only)*
 - [Feat] Improve iPad version (adding `Sidebar`, adaptative padding, charts markers...)
 - [Feat] Improve Filters usage & style in `Analytics Insights` screen
-
-#### Fixes
 - [Fix] Improve `Analytics Insights` Downloader stop/resume behaviour
 - [Fix] Fix `Tests Results` parser
 - [Fix] Fix bugs in `Analytics Insights` screen
@@ -24,8 +37,6 @@ include_in_header: true
 - [Fix] Persistent store crash after reseting token
 - [Fix] Fix websites URLs
 - [Fix] Fix iCloud sync
-
-#### Refactoring
 - [Refacto] Replace a few deprecated APIs
 - [Refacto] Reduce code warnings, remove useless files
 
@@ -50,8 +61,6 @@ include_in_header: true
 - [Fix] Fix ScrollViews insets troubles on small devices
 - [Fix] Fix crashes from nil Reducers
 - [Style] Small graphical improvements mainly on `Dashboard` and `Project` screens
-
-#### Refacto
 - [Refacto] Move all Colors into `StyleGuide` module for better app modularization
 
 <br>
