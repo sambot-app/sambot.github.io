@@ -5,21 +5,30 @@ include_in_header: true
 ---
 
 # Changelog
-**Last updated** Avril 6, 2022
+**Last updated** Avril 30, 2022
 
-# **Version 1.7**
+# **Version 1.8**
 
 ### What's New
 
-#### Features
+### Features
+- [Feat] Add automatic app updates on Dashboard for all your favorites projects to always be aware of the last up-to-date built app
+- [Feat] Improve `Environment Params` auto-completion when triggering a new build
+- [Feat] You can now restart/retry a Build from its tile button and quickly edit any of its combination of workflow, branch, env params
+
+### Fixes
+- [Fix] Fix a crash on app launch
+- [Fix] Fix duplicates while setting Environment params to a Build
+- [Fix] Fix Analytics Insights live update with fresh builds and date range that were sometimes wrongly set at launch
+- [Fix] Fix a crash on Test Report Summary in Build detailed screen
+
+<br>
+
+### **Version 1.7**
 - [Feat] `Environment Parameters` now autocomplete when configuring a build to run from any combinaison of project / workflow / branch / tags
 - [Feat] Add duration progress estimated from DB for favorites projects Builds running
-
-#### Fixes
 - [Fix] A few graphical glitches fixed
 - [Fix] `Analytics Insights` fetching was sometimes blocked
-
-#### Refactoring
 - [Refacto] Improved `Build Screen` loading (speed + code) 
 - [Refacto] Improved `Analytics Insights` fetching datas reliability
 - [Refacto] Improved quality of implementation for an incoming (great) feature 😉

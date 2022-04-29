@@ -70,21 +70,47 @@
 </header>
             <article class="page markdown-body">
                 <h1 id="changelog">Changelog</h1>
-<p><strong>Last updated</strong> March 3, 2022</p>
+<p><strong>Last updated</strong> Avril 30, 2022</p>
 
-<h1 id="version-16"><strong>Version 1.6</strong></h1>
+<h1 id="version-18"><strong>Version 1.8</strong></h1>
 
 <h3 id="whats-new">What’s New</h3>
 
-<h4 id="features">Features</h4>
+<h3 id="features">Features</h3>
+<ul>
+  <li>[Feat] Add automatic app updates on Dashboard for all your favorites projects to always be aware of the last up-to-date built app</li>
+  <li>[Feat] Improve <code class="language-plaintext highlighter-rouge">Environment Params</code> auto-completion when triggering a new build</li>
+  <li>[Feat] You can now restart/retry a Build from its tile button and quickly edit any of its combination of workflow, branch, env params</li>
+</ul>
+
+<h3 id="fixes">Fixes</h3>
+<ul>
+  <li>[Fix] Fix a crash on app launch</li>
+  <li>[Fix] Fix duplicates while setting Environment params to a Build</li>
+  <li>[Fix] Fix Analytics Insights live update with fresh builds and date range that were sometimes wrongly set at launch</li>
+  <li>[Fix] Fix a crash on Test Report Summary in Build detailed screen</li>
+</ul>
+
+<p><br /></p>
+
+<h3 id="version-17"><strong>Version 1.7</strong></h3>
+<ul>
+  <li>[Feat] <code class="language-plaintext highlighter-rouge">Environment Parameters</code> now autocomplete when configuring a build to run from any combinaison of project / workflow / branch / tags</li>
+  <li>[Feat] Add duration progress estimated from DB for favorites projects Builds running</li>
+  <li>[Fix] A few graphical glitches fixed</li>
+  <li>[Fix] <code class="language-plaintext highlighter-rouge">Analytics Insights</code> fetching was sometimes blocked</li>
+  <li>[Refacto] Improved <code class="language-plaintext highlighter-rouge">Build Screen</code> loading (speed + code)</li>
+  <li>[Refacto] Improved <code class="language-plaintext highlighter-rouge">Analytics Insights</code> fetching datas reliability</li>
+  <li>[Refacto] Improved quality of implementation for an incoming (great) feature 😉</li>
+</ul>
+
+<p><br /></p>
+
+<h3 id="version-16"><strong>Version 1.6</strong></h3>
 <ul>
   <li>[Feat] Add macOS Support <em>(Apple silicon only)</em></li>
   <li>[Feat] Improve iPad version (adding <code class="language-plaintext highlighter-rouge">Sidebar</code>, adaptative padding, charts markers…)</li>
   <li>[Feat] Improve Filters usage &amp; style in <code class="language-plaintext highlighter-rouge">Analytics Insights</code> screen</li>
-</ul>
-
-<h4 id="fixes">Fixes</h4>
-<ul>
   <li>[Fix] Improve <code class="language-plaintext highlighter-rouge">Analytics Insights</code> Downloader stop/resume behaviour</li>
   <li>[Fix] Fix <code class="language-plaintext highlighter-rouge">Tests Results</code> parser</li>
   <li>[Fix] Fix bugs in <code class="language-plaintext highlighter-rouge">Analytics Insights</code> screen</li>
@@ -92,10 +118,6 @@
   <li>[Fix] Persistent store crash after reseting token</li>
   <li>[Fix] Fix websites URLs</li>
   <li>[Fix] Fix iCloud sync</li>
-</ul>
-
-<h4 id="refactoring">Refactoring</h4>
-<ul>
   <li>[Refacto] Replace a few deprecated APIs</li>
   <li>[Refacto] Reduce code warnings, remove useless files</li>
 </ul>
@@ -124,10 +146,6 @@
   <li>[Fix] Fix ScrollViews insets troubles on small devices</li>
   <li>[Fix] Fix crashes from nil Reducers</li>
   <li>[Style] Small graphical improvements mainly on <code class="language-plaintext highlighter-rouge">Dashboard</code> and <code class="language-plaintext highlighter-rouge">Project</code> screens</li>
-</ul>
-
-<h4 id="refacto">Refacto</h4>
-<ul>
   <li>[Refacto] Move all Colors into <code class="language-plaintext highlighter-rouge">StyleGuide</code> module for better app modularization</li>
 </ul>
 
