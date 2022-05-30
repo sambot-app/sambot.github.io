@@ -12,7 +12,7 @@ include_in_header: true
 ### What's New
 
 ### Features
-- [Feat] Improve Add Environment Parameters screen
+- [Feat] Improve `Add Environment Parameters` screen
 - [Feat] You can now add any fresh new branch when starting a build
 
 ### Fixes
