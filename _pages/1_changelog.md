@@ -5,18 +5,29 @@ include_in_header: true
 ---
 
 # Changelog
-**Last updated** Avril 30, 2022
+**Last updated** May 30, 2022
 
-# **Version 1.8**
+# **Version 1.9**
 
 ### What's New
 
 ### Features
+- [Feat] Improve Add Environment Parameters screen
+- [Feat] You can now add any fresh new branch when starting a build
+
+### Fixes
+- [Fix] Fix bug when duplicated Environment params appears
+- [Fix] Fix a crash at launch
+
+### Refacto
+- [Refacto] Working on a next (great) feature
+
+<br>
+
+### **Version 1.8**
 - [Feat] Add automatic app updates on Dashboard for all your favorites projects to always be aware of the last up-to-date built app
 - [Feat] Improve `Environment Params` auto-completion when triggering a new build
 - [Feat] You can now restart/retry a Build from its tile button and quickly edit any of its combination of workflow, branch, env params
-
-### Fixes
 - [Fix] Fix a crash on app launch
 - [Fix] Fix duplicates while setting Environment params to a Build
 - [Fix] Fix Analytics Insights live update with fresh builds and date range that were sometimes wrongly set at launch
