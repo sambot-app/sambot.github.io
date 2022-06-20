@@ -5,21 +5,35 @@ include_in_header: true
 ---
 
 # Changelog
-**Last updated** May 30, 2022
+**Last updated** June 21, 2022
 
-# **Version 1.9**
+# **Version 1.10**
 
 ### What's New
 
 ### Features
-- [Feat] Improve `Add Environment Parameters` screen
-- [Feat] You can now add any fresh new branch when starting a build
+- [Feat] Add toggle on `Project Screen` to receive Push Notification as soon as builds finished
+- [Feat] Add native `ColorPicker` to improve color edition experience for Projects, Updated Apps, and Builds tiles
+- [Feat] Add button to share Bitrise Build URL on `Build Detailed screen`
 
 ### Fixes
-- [Fix] Fix bug when duplicated Environment params appears
-- [Fix] Fix a crash at launch
+- [Fix] Update `Updated Apps` / `Meteo` when data download is finished
 
 ### Refacto
+- [Refacto] Improve `Analytics Insights` Charts performances
+- [Refacto] Drastically reduce memory consumption
+
+### Design 
+- [Design] Update `Project screen` appearance
+
+<br>
+
+
+### **Version 1.8**
+- [Feat] Improve `Add Environment Parameters` screen
+- [Feat] You can now add any fresh new branch when starting a build
+- [Fix] Fix bug when duplicated Environment params appears
+- [Fix] Fix a crash at launch
 - [Refacto] Working on a next (great) feature
 
 <br>
