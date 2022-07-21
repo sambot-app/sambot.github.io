@@ -17,10 +17,10 @@ Sambot app is a tool helping you in your Bitrise continuous integration experien
 To use Sambot app you need a Bitrise account access and a valid generated token ([see this tutorial](/tokentuto/index.html) for more details)..
 
 ### On which platform can I use it?
-Sambot app is (at the moment) available on iOS and iPadOS and should soon be running on macOS.
+Sambot app is available on iOS, iPadOS and macOS.
 
 ### How much does it cost?
-Sambot app is free to use with lots of great features. But if you wish to use some extra features (like Push Notifications, iCloud Sync, Detailed Test Reports, Unlimited Favorite Projects, or Siri & Shortcuts) check out our Pro features Plan and unlock it with in-app purchases.
+Sambot app is free to use with lots of great features. But if you wish to use some extra features (like Push Notifications, iCloud Sync, Detailed Test Reports, Unlimited Favorite Projects, unlimited auto-updated built Apps, Team & Users managment or Siri & Shortcuts) check out our Pro features Plan and unlock it with in-app purchases.
 
 ---
 
@@ -39,6 +39,9 @@ Just after the end of a build, it takes time for Bitrise to process the full log
 ### Why are steps in the Build Steps module sometimes incomplete while a build is running?
 Until the integration process is finished, Sambot app does not have access to the whole log file but just what has been recently processed. But don't worry, as soon as the build is finished, the entire file will be parsed and you'll be able to see all steps in detail.
 
+### Why is there no achievement progress bar on a few runnings builds ?
+If the project of the biuild is not bookmarked as Favorite, there is no progress bar percentage available on its build
+
 ---
 
 ## Push notifications
@@ -46,13 +49,16 @@ Until the integration process is finished, Sambot app does not have access to th
 ### Push notifications don’t seem to work?
 - Push Notifications are included in Pro Features Plan. You have to subscribe to this plan to be able to receive them.
 - Push Notifications are sent when the build integration has finished with a succeeded or failed status.
-- To enable Push Notifications for a specific project in Sambot app, go to its Project screen and enable them by toggling on the Bell button.
+- To enable Push Notifications for a specific project in Sambot app, go to its Project screen and enable them by switching on the notification toggle.
 
 ### How do I know that everything is correctly configured in Sambot app?
 To check that everything is OK or enable and give permissions if needed, just go to Settings screen > Notifications and tap on "Send a Test Notification" button.
 
 ### What if I don't want to receive any Push Notifications when I'm not at work?
 Sambot app allows you to set your working days range as well as your time slots. Just go to Settings screen > Notifications to configure them as you wish.
+
+### Notifications are not appearing on MacOS
+Try to enable them in macOS notifications settings and be sure that notifications are not disabled in your current focus mode.
 
 ---
 
@@ -67,6 +73,13 @@ At the moment, the iCloud Sync feature allows you to synchronize your favorite P
 
 ### I want to delete all Sambot objects that are hosted on my iCloud account
 Go to Settings screen > Manage your Token then toggle on "Clear all iCloud datas" and tap on "Remove registered Token" button.
+
+---
+
+## Share User access & Teams
+
+### Why received shared link doesn’t open Sambot ?
+This magic link feature is only available in Sambot version >= 2.0 (on both devices)
 
 ---
 
