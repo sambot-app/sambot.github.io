@@ -5,31 +5,41 @@ include_in_header: true
 ---
 
 # Changelog
-**Last updated** June 21, 2022
+**Last updated** July 28, 2022
 
-# **Version 1.10**
+# **Version 2.0**
 
 ### What's New
 
 ### Features
+- [Feat] Invite (securely) users to join your Sambot team via a _Magic link_ without sharing any token to them
+- [Feat] Manage users access permissions (guest, member or admin) from any of your teams (Developer / QA / Marketing / DevOps, and a lot more...)
+- [Feat] Add new `Account screen` (accessible from `Settings` toolbar)
+- [Feat] Improve `Settings screen`
+
+### Fixes
+- [Fix] Fix a few bugs around last-updated/favorite `Applications` on Dashboard
+- [Fix] Fix crashes on iOS
+- [Fix] Fix crashes on macOS
+
+### Refacto
+- [Refacto] Refactor all system of `Modal sheets` all over the app
+- [Refacto] Summer haircut for Notifications
+
+<br>
+
+### **Version 1.10**
 - [Feat] Add toggle on `Project Screen` to receive Push Notification as soon as builds finished
 - [Feat] Add native `ColorPicker` to improve color edition experience for Projects, Updated Apps, and Builds tiles
 - [Feat] Add button to share Bitrise Build URL on `Build Detailed screen`
-
-### Fixes
 - [Fix] Update `Updated Apps` / `Meteo` when data download is finished
-
-### Refacto
 - [Refacto] Improve `Analytics Insights` Charts performances
 - [Refacto] Drastically reduce memory consumption
-
-### Design 
 - [Design] Update `Project screen` appearance
 
 <br>
 
-
-### **Version 1.8**
+### **Version 1.9**
 - [Feat] Improve `Add Environment Parameters` screen
 - [Feat] You can now add any fresh new branch when starting a build
 - [Fix] Fix bug when duplicated Environment params appears
