@@ -5,19 +5,20 @@ include_in_header: true
 ---
 
 # Changelog
-**Last updated** July 28, 2022
+**Last updated** September 14, 2022
 
 # **Version 2.0**
 
 ### What's New
 
 ### Features
-- [Feat] Invite (securely) users to join your Sambot team via a _Magic link_ without sharing any token to them
+- [Feat] Invite (securely) all your teammates to join your Sambot teams via a _Magic link_ without sharing any token to them
 - [Feat] Manage users access permissions (guest, member or admin) from any of your teams (Developer / QA / Marketing / DevOps, and a lot more...)
 - [Feat] Add new `Account screen` (accessible from `Settings` toolbar)
 - [Feat] Improve `Settings screen`
 
 ### Fixes
+- [Fix] Fix iOS 16 compatibility
 - [Fix] Fix a few bugs around last-updated/favorite `Applications` on Dashboard
 - [Fix] Fix crashes on iOS
 - [Fix] Fix crashes on macOS
