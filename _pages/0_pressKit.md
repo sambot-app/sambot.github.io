@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 # Press Kit
-**Last updated** March 3, 2022
+**Last updated** September 13, 2022
 
 <br>
 
