@@ -9,10 +9,10 @@ include_in_header: true
 
 # **Version 2.0**
 
-### What's New
+### What's New ?
 
 ### Features
-- [Feat] Invite (securely) all your teammates to join your Sambot teams via a _Magic link_ without sharing any token to them
+- [Feat] Invite all your teammates (securely) to join your Sambot teams via a _Magic link_ without sharing any token to them
 - [Feat] Manage users access permissions (guest, member or admin) from any of your teams (Developer / QA / Marketing / DevOps, and a lot more...)
 - [Feat] Add new `Account screen` (accessible from `Settings` toolbar)
 - [Feat] Improve `Settings screen`
